@@ -1,0 +1,133 @@
+{
+  "games": {
+    "common": {
+      "features": {
+        "uptime": "Verfügbarkeit",
+        "fast_startup": "Schneller Start",
+        "plugins": "Plugin-Installation",
+        "ddos_protection": "DDoS-Schutz",
+        "support": "24/7 Support",
+        "refund": "3-Tage-Rückerstattung",
+        "online": "Hohe Online-Zahl",
+        "low_ping": "Geringe Ping-Zeiten"
+      },
+      "buttons": {
+        "start_server": "Server starten",
+        "view_plans": "Tarife anzeigen",
+        "configure": "Server konfigurieren"
+      },
+      "pricing": {
+        "title": "Wählen Sie den optimalen Tarif",
+        "description": "Wir bieten flexible Tarife für alle Anforderungen"
+      },
+      "custom_plan": {
+        "title": "Benötigen Sie einen individuellen Tarif?",
+        "description": "Konfigurieren Sie die Serverparameter nach Ihren Anforderungen. Unser Konfigurator hilft bei der Erstellung der optimalen Lösung für Ihr Projekt mit beliebiger Komplexität.",
+        "infrastructure": {
+          "title": "Hardware und Infrastruktur",
+          "cpu": "Ryzen 9 7950X @ 5.6GHz",
+          "disk": "NVMe SSD 3000MB/s+",
+          "network": "1–10 Gbps Uplink",
+          "ddos": "Enterprise-Level DDoS-Schutz"
+        }
+      }
+    },
+    "minecraft": {
+      "title": "MINECRAFT SERVER HOSTING",
+      "description": "Zuverlässiges Minecraft-Server-Hosting mit sofortigem Start und DDoS-Schutz",
+      "features": {
+        "uptime": "99,8% Verfügbarkeit",
+        "fast_startup": "Schneller Start",
+        "plugins": "Plugin-Installation",
+        "ddos_protection": "DDoS-Schutz",
+        "support": "24/7 Support",
+        "refund": "3-Tage-Rückerstattung"
+      },
+      "buttons": {
+        "start_server": "Server starten",
+        "view_plans": "Tarife anzeigen"
+      },
+      "pricing": {
+        "title": "Wählen Sie den optimalen Tarif",
+        "description": "Wir bieten flexible Tarife für alle Anforderungen",
+        "small": {
+          "name": "Klein",
+          "description": "Für Freunde"
+        },
+        "medium": {
+          "name": "Mittel",
+          "description": "Für Mini-Community"
+        },
+        "large": {
+          "name": "Groß",
+          "description": "Optimum für große Community"
+        },
+        "custom": {
+          "title": "Benötigen Sie einen individuellen Tarif?",
+          "description": "Konfigurieren Sie die Serverparameter nach Ihren Anforderungen. Unser Konfigurator hilft bei der Erstellung der optimalen Lösung für Ihr Projekt mit beliebiger Komplexität.",
+          "button": "Server konfigurieren",
+          "infrastructure": {
+            "title": "Hardware und Infrastruktur",
+            "cpu": "Ryzen 9 7950X @ 5.6GHz",
+            "disk": "NVMe SSD 3000MB/s+",
+            "network": "1–10 Gbps Uplink",
+            "ddos": "Enterprise-Level DDoS-Schutz"
+          }
+        }
+      },
+      "plan_features": {
+        "small": [
+          "1 vCPU Prozessor",
+          "10GB Speicher",
+          "100GB Festplatte",
+          "1 Port",
+          "0 DB",
+          "1 Backup",
+          "DDoS-Angriffsschutz",
+          "24/7 Technischer Support"
+        ],
+        "medium": [
+          "2 vCPU Prozessor",
+          "20GB Speicher",
+          "200GB Festplatte",
+          "2 Ports",
+          "1 DB",
+          "1 Backup",
+          "DDoS-Angriffsschutz",
+          "24/7 Technischer Support"
+        ],
+        "large": [
+          "3 vCPU Prozessor",
+          "30GB Speicher",
+          "300GB Festplatte",
+          "3 Ports",
+          "2 DB",
+          "1 Backup",
+          "DDoS-Angriffsschutz",
+          "24/7 Technischer Support"
+        ]
+      }
+    },
+    "rust": {
+      "title": "RUST SERVER HOSTING",
+      "description": "Leistungsstarke Server für Rust mit garantiertem Online-Spiel und Plugin-Unterstützung.",
+      "features": {
+        "online": "Hohe Online-Zahl",
+        "fast_startup": "Schneller Start",
+        "plugins": "uMod/Oxide Unterstützung",
+        "ddos_protection": "DDoS-Schutz",
+        "support": "24/7 Support",
+        "low_ping": "Geringe Ping-Zeiten"
+      },
+      "buttons": {
+        "start_server": "Server starten",
+        "view_plans": "Tarife anzeigen"
+      },
+      "pricing": {
+        "title": "Wählen Sie den optimalen Tarif",
+        "description": "Wir bieten flexible Tarife für alle Anforderungen",
+        "popular": "BELIEBT"
+      }
+    }
+  }
+}

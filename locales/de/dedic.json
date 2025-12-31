@@ -1,0 +1,66 @@
+{
+  "dedic": {
+    "title": "Dedizierte Server",
+    "subtitle": "MAXIMALE LEISTUNG",
+    "description": "Mieten Sie physische Server mit vollständiger Kontrolle über die Ressourcen. Maximale Leistung, Sicherheit und Flexibilität für die anspruchsvollsten Projekte.",
+    "buttons": {
+      "select_server": "Server auswählen",
+      "full_root_access": "Vollständiger Root-Zugriff",
+      "guaranteed_resources": "Garantierte Ressourcen"
+    },
+    "metrics": {
+      "resources": {
+        "value": "100%",
+        "label": "Garantierte Ressourcen"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "DDoS-Schutz"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Technischer Support"
+      },
+      "deployment": {
+        "value": "1 Stunde",
+        "label": "Bereitstellungszeit"
+      }
+    },
+    "pricing": {
+      "title": "Serverkonfigurationen",
+      "description": "Wählen Sie eine fertige Konfiguration oder kontaktieren Sie uns, um eine individuelle Lösung auszuwählen.",
+      "plan": "Tarif",
+      "cpu": "Prozessor",
+      "memory": "Speicher",
+      "disk": "Festplatte",
+      "network": "Netzwerk",
+      "in_stock": "Auf Lager",
+      "price": "Preis",
+      "order": "Bestellen",
+      "recommended": "Empfohlen"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Antwort nicht gefunden? {link}, und wir helfen Ihnen.",
+      "contact_us": "Kontaktieren Sie uns",
+      "questions": {
+        "what_is_dedicated": {
+          "question": "Was ist ein dedizierter Server?",
+          "answer": "Ein dedizierter Server ist eine physische Maschine, deren Ressourcen vollständig zu Ihrer Verfügung stehen. Im Gegensatz zu VPS teilen Sie den Prozessor, Speicher oder die Festplatte nicht mit anderen Benutzern, was maximale Leistung und Sicherheit gewährleistet."
+        },
+        "use_cases": {
+          "question": "Für welche Aufgaben sind dedizierte Server geeignet?",
+          "answer": "Dedizierte Server sind ideal für hochbelastete Projekte: große Online-Shops, Gameserver mit großem Online-Aufkommen, Datenbanken, Anwendungen zur Datenanalyse und alle Aufgaben, die garantierte Leistung und vollständige Isolation erfordern."
+        },
+        "customization": {
+          "question": "Kann ich die Konfiguration anpassen?",
+          "answer": "Ja, in den meisten Fällen können wir individuelle Konfigurationen anbieten. Kontaktieren Sie unseren Support, um Ihre Anforderungen an Prozessor, Arbeitsspeicher, Festplatten und Netzwerkverbindungen zu besprechen."
+        },
+        "administration": {
+          "question": "Was ist im Administrationsdienst enthalten?",
+          "answer": "Die Basisverwaltung umfasst die Ersteinrichtung des Servers, die Installation des Betriebssystems und des Bedienfelds. Die vollständige Verwaltung ist ein umfassender Service, der Monitoring, regelmäßige Updates, Backups und die Lösung technischer Probleme beinhaltet. Sie können das geeignete Unterstützungsniveau bei der Bestellung auswählen."
+        }
+      }
+    }
+  }
+}

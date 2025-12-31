@@ -1,0 +1,27 @@
+{
+  "components": {
+    "ui": {
+      "button": {
+        "send": "ENVOYER"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Configuration principale",
+        "location": "Emplacement",
+        "os": "Système d'exploitation",
+        "resources": "Ressources",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Disque",
+        "additional": "Options supplémentaires",
+        "backups": "Sauvegardes",
+        "ip": "Adresses IPv4",
+        "network": "Réseau",
+        "summary": "Récapitulatif de la commande",
+        "total": "Total par mois :",
+        "order": "Passer la commande"
+      }
+    }
+  }
+}

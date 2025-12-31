@@ -1,0 +1,9 @@
+{
+  "api": {
+    "endpoint": "Punto de extremo API",
+    "description": "Este punto de extremo API es solo para solicitudes programáticas.",
+    "docs": "Si es desarrollador, consulte la documentación de la API para obtener más información.",
+    "error_code": "Código de error 403",
+    "back_to_home": "Volver al inicio"
+  }
+}

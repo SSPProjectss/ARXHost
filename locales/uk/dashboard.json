@@ -1,0 +1,209 @@
+{
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Доброї ночі",
+        "morning": "Доброго ранку",
+        "day": "Добрий день",
+        "evening": "Добрий вечір"
+      }
+    },
+    "stats": {
+      "balance": "Баланс",
+      "balance_description": "Доступно для оплати",
+      "active_projects": "Активні проекти",
+      "active_projects_description": "Всього проектів",
+      "open_tickets": "Відкриті тікети",
+      "open_tickets_description": "Звернення до підтримки"
+    },
+    "servers": {
+      "title": "Мої сервери",
+      "description": "Керування вашими серверами",
+      "search_placeholder": "Пошук серверів...",
+      "order": "Сортувати",
+      "order_prompt": "Перетягніть, щоб змінити порядок",
+      "no_servers": "Немає серверів",
+      "no_servers_description": "Додайте сервер, щоб почати",
+      "no_servers_found": "Сервери не знайдено",
+      "no_servers_found_description": "За запитом \"{query}\" сервери не знайдено",
+      "order_servers": "Замовити сервер"
+    },
+    "projects": {
+      "title": "Активні проекти",
+      "description": "Огляд ваших поточних проектів",
+      "no_projects": "У вас ще немає проектів",
+      "no_projects_description": "Створіть свій перший проект, щоб почати.",
+      "create": "Створити проект",
+      "create_title": "Створити новий проект",
+      "create_description": "Введіть назву для нового проекту. Натисніть створити, коли закінчите.",
+      "create_placeholder": "Мій новий проект",
+      "create_button": "Створити",
+      "show_all": "Показати всі проекти"
+    },
+    "server": {
+      "name": "Назва:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Увімкнено",
+      "actions": {
+        "start": "Запустити",
+        "restart": "Перезапустити",
+        "stop": "Зупинити"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файли",
+        "players": "Гравці",
+        "databases": "Бази даних",
+        "schedules": "Планувальник",
+        "plugins": "Плагіни",
+        "mods": "Моди",
+        "versions": "Версії",
+        "worlds": "Світи",
+        "backups": "Резервні копії",
+        "firewall": "Фаєрвол",
+        "wiper": "Очищувач",
+        "config": "Конфігурація",
+        "access": "Доступ",
+        "settings": "Налаштування"
+      },
+      "resources": {
+        "title": "Використання ресурсів",
+        "cpu": "CPU",
+        "memory": "Пам'ять",
+        "storage": "Сховище"
+      },
+      "settings": {
+        "title": "Загальні налаштування",
+        "description": "Основні параметри вашого сервера.",
+        "name_label": "Назва сервера",
+        "save": "Зберегти"
+      },
+      "access": {
+        "title": "Доступ до сервера",
+        "not_linked": "Цей сервер не прив'язаний до проекту.",
+        "not_linked_description": "Прив'яжіть його до проекту, щоб керувати доступом учасників.",
+        "to_projects": "До проектів",
+        "manage_access": "Керування доступом",
+        "manage_access_description": "Налаштуйте права доступу для учасників проекту \"{project}\" до цього сервера.",
+        "member": "Учасник",
+        "permissions": {
+          "power": "Керування живленням",
+          "console": "Доступ до консолі",
+          "files": "Керування файлами",
+          "backups": "Керування резервними копіями",
+          "settings": "Налаштування сервера"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Профіль",
+        "description": "Основні налаштування вашого облікового запису.",
+        "username": "Логін",
+        "email": "Ел. пошта",
+        "language": "Мова",
+        "avatar": "Аватар",
+        "regenerate_avatar": "Перегенерувати",
+        "currency": "Валюта",
+        "password": "Пароль",
+        "regenerate_password": "Згенерувати новий",
+        "save": "Зберегти зміни",
+        "saved": "Зміни успішно збережено!"
+      },
+      "balance": {
+        "title": "Баланс",
+        "description": "Керуйте вашим балансом та оберіть спосіб поповнення.",
+        "current_balance": "Поточний баланс",
+        "payment_method": "Спосіб поповнення",
+        "payment_methods": {
+          "stripe": "Stripe",
+          "robokassa": "Robokassa",
+          "cryptomus": "Heleket (Cryptomus)",
+          "morune": "morune"
+        },
+        "payment_recommendations": {
+          "stripe": "Карти, Apple/Google Pay",
+          "robokassa": "Карти РФ, ел. гаманці",
+          "cryptomus": "Криптовалюти (BTC, ETH, USDT)",
+          "morune": "Банківські перекази"
+        },
+        "amount": "Сума поповнення",
+        "amount_placeholder": "0,00",
+        "quick_add": "+ {amount}",
+        "top_up": "Поповнити баланс",
+        "processing": "Обробка...",
+        "success": "Баланс успішно поповнено на {amount}!"
+      },
+      "referral": {
+        "title": "Реферальна програма",
+        "description": "Запрошуйте друзів та отримуйте бонуси",
+        "link": "Ваше реферальне посилання",
+        "code": "Ваш код:",
+        "referrer": "Вас запросив",
+        "unlink": "Відв'язати",
+        "no_referrer": "Ви прийшли без запрошення, але можете вказати реферальний код.",
+        "apply_referrer": "Застосувати",
+        "referred": "Запрошені вами ({count})",
+        "no_referred": "Ви ще нікого не запросили"
+      },
+      "notifications": {
+        "title": "Налаштування сповіщень",
+        "description": "Оберіть, які сповіщення і куди ви хочете отримувати.",
+        "security": "Безпека",
+        "security_login": "Нові входи",
+        "security_login_description": "Сповіщення про вхід з нового пристрою.",
+        "security_otp": "Коди для входу",
+        "security_otp_description": "Одноразові коди для входу та реєстрації.",
+        "security_topup": "Поповнення балансу",
+        "security_topup_description": "Сповіщення про успішне поповнення балансу.",
+        "support": "Підтримка",
+        "support_messages": "Відповіді на тікети",
+        "support_messages_description": "Сповіщення про відповіді від служби підтримки.",
+        "news": "Новини та оновлення",
+        "news_updates": "Новини платформи",
+        "news_updates_description": "Інформація про нові функції та оновлення.",
+        "retention": "Зберігання сповіщень на сайті",
+        "retention_auto": "Автоматичне видалення",
+        "retention_auto_description": "Видаляти прочитані сповіщення на сайті через зазначений період.",
+        "retention_periods": {
+          "1w": "1 тиждень",
+          "1m": "1 місяць",
+          "6m": "6 місяців",
+          "never": "Ніколи"
+        },
+        "retention_exceptions": "Винятки",
+        "retention_exceptions_description": "Позначені типи сповіщень не будуть автоматично видалятися, навіть після прочитання.",
+        "save": "Зберегти налаштування"
+      },
+      "sessions": {
+        "title": "Активні сесії",
+        "description": "Пристрої, на яких виконано вхід до вашого облікового запису.",
+        "terminate": "Завершити всі сесії",
+        "terminate_confirm": "Завершити всі сесії?",
+        "terminate_confirm_description": "Ви впевнені, що хочете завершити всі сесії? Користувач буде вилогінений з усіх пристроїв. Вам потрібно буде знову ввійти до системи на них.",
+        "device": "Пристрій",
+        "browser": "Браузер",
+        "location": "Місцезнаходження",
+        "ip": "IP-адреса",
+        "last_active": "Остання активність",
+        "status": "Статус",
+        "current": "Поточний",
+        "active": "Активний",
+        "logout": "Вийти",
+        "logout_confirm": "Завершити сесію?",
+        "logout_confirm_description": "Ви впевнені, що хочете завершити цю сесію? Користувач буде вилогінений з цього пристрою.",
+        "no_sessions": "Немає активних сесій",
+        "unknown": "Невідомо"
+      },
+      "promo": {
+        "title": "Активація промокоду",
+        "description": "Введіть свій промокод, щоб отримати бонуси.",
+        "placeholder": "Введіть промокод",
+        "activate": "Активувати",
+        "activated": "Промокод успішно активовано!",
+        "invalid": "Недійсний промокод"
+      }
+    }
+  }
+}

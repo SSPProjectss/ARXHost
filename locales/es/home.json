@@ -1,0 +1,70 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Alojamiento de juegos de nueva generación",
+      "title": {
+        "line1": "Tu servidor",
+        "line2": "Tu libertad"
+      },
+      "description": "Alojamiento rápido, confiable y seguro para cualquier servidor de juegos con panel de control de un solo clic.",
+      "buttons": {
+        "start_server": "Iniciar servidor de juego",
+        "deploy_vds": "Implementar VDS"
+      }
+    },
+    "metrics": {
+      "performance": {
+        "label": "Alto rendimiento",
+        "description": "Almacenamiento NVMe SSD"
+      },
+      "network": {
+        "label": "Red global",
+        "description": "15+ ubicaciones"
+      },
+      "users": {
+        "label": "Usuarios activos"
+      }
+    },
+    "features": {
+      "title": "Todo lo que necesitas para tu proyecto",
+      "description": "Proporcionamos herramientas y funciones potentes para mantener tu proyecto funcionando rápido y estable.",
+      "deployment": {
+        "title": "Despliegue instantáneo",
+        "description": "Tu servidor estará listo en segundos"
+      },
+      "ddos": {
+        "title": "Protección DDoS",
+        "description": "Protección avanzada contra ataques"
+      },
+      "ping": {
+        "title": "Ping bajo",
+        "description": "Red de juegos optimizada"
+      },
+      "support": {
+        "title": "Soporte 24/7",
+        "description": "Nuestro equipo siempre está listo para ayudar"
+      }
+    },
+    "services": {
+      "title": "Nuestros servicios",
+      "description": "Elige la solución perfecta para tus necesidades.",
+      "minecraft": {
+        "title": "Alojamiento Minecraft",
+        "description": "Servidores optimizados para Minecraft con instalación de mods con un solo clic y protección confiable."
+      },
+      "dedicated": {
+        "title": "Servidores dedicados",
+        "description": "Control total y rendimiento máximo para los proyectos más exigentes."
+      },
+      "rust": {
+        "title": "Alojamiento Rust",
+        "description": "Servidores de alto rendimiento para Rust con en línea garantizado y soporte de complementos."
+      },
+      "vps": {
+        "title": "Servidores VPS/VDS",
+        "description": "Servidores virtuales flexibles y potentes con acceso root completo para cualquiera de tus tareas y proyectos."
+      },
+      "learn_more": "Más información"
+    }
+  }
+}

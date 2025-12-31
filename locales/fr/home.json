@@ -1,0 +1,70 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Hébergement de jeux nouvelle génération",
+      "title": {
+        "line1": "Votre serveur",
+        "line2": "Votre liberté"
+      },
+      "description": "Hébergement rapide, fiable et sécurisé pour tous les serveurs de jeux avec panneau de contrôle en un clic.",
+      "buttons": {
+        "start_server": "Démarrer le serveur de jeu",
+        "deploy_vds": "Déployer un VDS"
+      }
+    },
+    "metrics": {
+      "performance": {
+        "label": "Haute performance",
+        "description": "Stockage NVMe SSD"
+      },
+      "network": {
+        "label": "Réseau mondial",
+        "description": "15+ emplacements"
+      },
+      "users": {
+        "label": "Utilisateurs actifs"
+      }
+    },
+    "features": {
+      "title": "Tout ce dont vous avez besoin pour votre projet",
+      "description": "Nous fournissons des outils et fonctionnalités puissants pour que votre projet fonctionne rapidement et de manière stable.",
+      "deployment": {
+        "title": "Déploiement instantané",
+        "description": "Votre serveur sera prêt en quelques secondes"
+      },
+      "ddos": {
+        "title": "Protection DDoS",
+        "description": "Protection avancée contre les attaques"
+      },
+      "ping": {
+        "title": "Ping faible",
+        "description": "Réseau de jeu optimisé"
+      },
+      "support": {
+        "title": "Support 24/7",
+        "description": "Notre équipe est toujours prête à aider"
+      }
+    },
+    "services": {
+      "title": "Nos services",
+      "description": "Choisissez la solution parfaite pour vos besoins.",
+      "minecraft": {
+        "title": "Hébergement Minecraft",
+        "description": "Serveurs optimisés pour Minecraft avec installation de mods en un clic et protection fiable."
+      },
+      "dedicated": {
+        "title": "Serveurs dédiés",
+        "description": "Contrôle total et performances maximales pour les projets les plus exigeants."
+      },
+      "rust": {
+        "title": "Hébergement Rust",
+        "description": "Serveurs haute performance pour Rust avec online garanti et support de plugins."
+      },
+      "vps": {
+        "title": "Serveurs VPS/VDS",
+        "description": "Serveurs virtuels flexibles et puissants avec accès root complet pour toutes vos tâches et projets."
+      },
+      "learn_more": "En savoir plus"
+    }
+  }
+}

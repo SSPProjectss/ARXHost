@@ -1,0 +1,9 @@
+{
+  "api": {
+    "endpoint": "Point de terminaison API",
+    "description": "Ce point de terminaison API est destiné uniquement aux requêtes programmatiques.",
+    "docs": "Si vous êtes développeur, consultez la documentation API pour plus d'informations.",
+    "error_code": "Code d'erreur 403",
+    "back_to_home": "Retour à l'accueil"
+  }
+}

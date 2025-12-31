@@ -1,0 +1,38 @@
+{
+  "support": {
+    "title": "Support",
+    "description": "Besoin d'aide ? Contactez notre équipe de support de la manière qui vous convient.",
+    "options": {
+      "email": {
+        "title": "Email",
+        "description": "Envoyez-nous un email à support@arxhosting.ru",
+        "response": "Réponse sous 24 heures"
+      },
+      "chat": {
+        "title": "Chat en ligne",
+        "description": "Obtenez une aide instantanée par chat",
+        "response": "Réponse sous 5 minutes"
+      },
+      "phone": {
+        "title": "Téléphone",
+        "description": "Appelez-nous au +7 (495) 123-45-67",
+        "response": "Heures de travail : 9h00-21h00"
+      }
+    },
+    "form": {
+      "title": "Envoyer un message",
+      "description": "Remplissez le formulaire ci-dessous et nous vous contacterons rapidement.",
+      "email": "Email",
+      "email_placeholder": "votre@email.com",
+      "subject": "Sujet",
+      "subject_placeholder": "Décrivez brièvement le problème",
+      "message": "Message",
+      "message_placeholder": "Décrivez votre question ou problème en détail",
+      "submit": "Envoyer le message",
+      "success": {
+        "title": "Message envoyé",
+        "description": "Nous vous contacterons rapidement."
+      }
+    }
+  }
+}

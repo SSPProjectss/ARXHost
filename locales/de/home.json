@@ -1,0 +1,70 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Game-Hosting der nächsten Generation",
+      "title": {
+        "line1": "Ihr Server",
+        "line2": "Ihre Freiheit"
+      },
+      "description": "Schnelles, zuverlässiges und sicheres Hosting für beliebige Gameserver mit One-Click-Bedienfeld.",
+      "buttons": {
+        "start_server": "Gameserver starten",
+        "deploy_vds": "VDS bereitstellen"
+      }
+    },
+    "metrics": {
+      "performance": {
+        "label": "Hohe Leistung",
+        "description": "NVMe SSD-Speicher"
+      },
+      "network": {
+        "label": "Globales Netzwerk",
+        "description": "15+ Standorte"
+      },
+      "users": {
+        "label": "Aktive Benutzer"
+      }
+    },
+    "features": {
+      "title": "Alles, was Sie für Ihr Projekt benötigen",
+      "description": "Wir bieten leistungsstarke Tools und Funktionen, damit Ihr Projekt schnell und stabil läuft.",
+      "deployment": {
+        "title": "Sofortige Bereitstellung",
+        "description": "Ihr Server ist in Sekundenschnelle bereit"
+      },
+      "ddos": {
+        "title": "DDoS-Schutz",
+        "description": "Erweiterter Angriffsschutz"
+      },
+      "ping": {
+        "title": "Geringe Ping-Zeiten",
+        "description": "Optimiertes Gaming-Netzwerk"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Unser Team steht immer bereit, um zu helfen"
+      }
+    },
+    "services": {
+      "title": "Unsere Dienste",
+      "description": "Wählen Sie die perfekte Lösung für Ihre Anforderungen.",
+      "minecraft": {
+        "title": "Minecraft-Hosting",
+        "description": "Optimierte Server für Minecraft mit Mod-Installation per One-Click und zuverlässigem Schutz."
+      },
+      "dedicated": {
+        "title": "Dedizierte Server",
+        "description": "Vollständige Kontrolle und maximale Leistung für die anspruchsvollsten Projekte."
+      },
+      "rust": {
+        "title": "Rust-Hosting",
+        "description": "Hochleistungs-Server für Rust mit garantiertem Online-Betrieb und Plugin-Unterstützung."
+      },
+      "vps": {
+        "title": "VPS/VDS-Server",
+        "description": "Flexible und leistungsstarke virtuelle Server mit vollem Root-Zugriff für alle Ihre Aufgaben und Projekte."
+      },
+      "learn_more": "Mehr erfahren"
+    }
+  }
+}

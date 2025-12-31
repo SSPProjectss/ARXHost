@@ -1,0 +1,53 @@
+{
+  "header": {
+    "home": "Startseite",
+    "vps": "VPS",
+    "docs": "Dokumentation",
+    "support": "Support",
+    "about": "Über uns",
+    "dashboard": "Dashboard",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "language": {
+      "switch": "Deutsch",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Zuverlässiges Spiele-Hosting mit maximaler Leistung und 24/7 Support. Ihr Server - Ihre Freiheit.",
+    "support_email": "support@arx.pro",
+    "support_label": "Support:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Kooperation:",
+    "games": {
+      "title": "Spiele",
+      "minecraft": "Minecraft",
+      "rust": "Rust"
+    },
+    "services": {
+      "title": "Dienste",
+      "vps": "VPS/VDS",
+      "dedicated": "Dedizierte Server",
+      "web_hosting": "Webhosting"
+    },
+    "support": {
+      "title": "Support",
+      "contact": "Kontaktieren Sie uns",
+      "terms": "Nutzungsbedingungen",
+      "rules": "Nutzungsregeln"
+    },
+    "social": {
+      "title": "Folgen Sie uns",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. Alle Rechte vorbehalten.",
+    "copyright_v2": "Alle Rechte vorbehalten."
+  }
+}

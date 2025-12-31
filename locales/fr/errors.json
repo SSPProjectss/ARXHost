@@ -1,0 +1,15 @@
+{
+  "errors": {
+    "404": {
+      "title": "Page non trouvée",
+      "description": "Malheureusement, nous n'avons pas pu trouver la page que vous recherchez. Elle a peut-être été déplacée ou supprimée.",
+      "button": "← Retour à l'accueil"
+    },
+    "500": {
+      "title": "Quelque chose s'est mal passé",
+      "description": "Malheureusement, une erreur inattendue s'est produite dans l'application. Essayez de recharger la page.",
+      "retry": "Réessayer",
+      "home": "Retour à l'accueil"
+    }
+  }
+}

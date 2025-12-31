@@ -1,0 +1,66 @@
+{
+  "dedic": {
+    "title": "Servidores dedicados",
+    "subtitle": "POTENCIA MÁXIMA",
+    "description": "Alquile servidores físicos con control total sobre los recursos. Máximo rendimiento, seguridad y flexibilidad para los proyectos más exigentes.",
+    "buttons": {
+      "select_server": "Seleccionar servidor",
+      "full_root_access": "Acceso root completo",
+      "guaranteed_resources": "Recursos garantizados"
+    },
+    "metrics": {
+      "resources": {
+        "value": "100%",
+        "label": "Recursos garantizados"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "Protección DDoS"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Soporte técnico"
+      },
+      "deployment": {
+        "value": "1 hora",
+        "label": "Tiempo de despliegue"
+      }
+    },
+    "pricing": {
+      "title": "Configuraciones de servidores",
+      "description": "Elija una configuración lista o contáctenos para seleccionar una solución personalizada.",
+      "plan": "Plan",
+      "cpu": "Procesador",
+      "memory": "Memoria",
+      "disk": "Disco",
+      "network": "Red",
+      "in_stock": "En stock",
+      "price": "Precio",
+      "order": "Ordenar",
+      "recommended": "Recomendado"
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "¿No encontró la respuesta? {link}, y le ayudaremos.",
+      "contact_us": "Contáctenos",
+      "questions": {
+        "what_is_dedicated": {
+          "question": "¿Qué es un servidor dedicado?",
+          "answer": "Un servidor dedicado es una máquina física cuyos recursos están completamente a su disposición. A diferencia del VPS, no comparte el procesador, la memoria o el disco con otros usuarios, lo que garantiza un máximo rendimiento y seguridad."
+        },
+        "use_cases": {
+          "question": "¿Para qué tareas son adecuados los servidores dedicados?",
+          "answer": "Los servidores dedicados son ideales para proyectos de alta carga: grandes tiendas en línea, servidores de juegos con gran número de usuarios, bases de datos, aplicaciones de análisis de datos y cualquier tarea que requiera rendimiento garantizado y aislamiento completo."
+        },
+        "customization": {
+          "question": "¿Puedo personalizar la configuración?",
+          "answer": "Sí, en la mayoría de los casos podemos ofrecer configuraciones personalizadas. Contacte a nuestro equipo de soporte para discutir sus requisitos de procesador, memoria RAM, discos y conexiones de red."
+        },
+        "administration": {
+          "question": "¿Qué incluye el servicio de administración?",
+          "answer": "La administración básica incluye la configuración inicial del servidor, instalación del sistema operativo y panel de control. La administración completa es un servicio integral que incluye monitoreo, actualizaciones regulares, copias de seguridad y solución de problemas técnicos. Puede elegir el nivel de soporte adecuado al realizar el pedido."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Good night",
+        "morning": "Good morning",
+        "day": "Good afternoon",
+        "evening": "Good evening"
+      }
+    },
+    "stats": {
+      "balance": "Balance",
+      "balance_description": "Available for payment",
+      "active_projects": "Active projects",
+      "active_projects_description": "Total projects",
+      "open_tickets": "Open tickets",
+      "open_tickets_description": "Support requests"
+    },
+    "servers": {
+      "title": "My Servers",
+      "description": "Manage your servers",
+      "search_placeholder": "Search servers...",
+      "order": "Sort",
+      "order_prompt": "Drag to change order",
+      "no_servers": "No servers",
+      "no_servers_description": "Add a server to get started",
+      "no_servers_found": "No servers found",
+      "no_servers_found_description": "No servers found for query \"{query}\"",
+      "order_servers": "Order server"
+    },
+    "projects": {
+      "title": "Active Projects",
+      "description": "Overview of your current projects",
+      "no_projects": "You don't have any projects yet",
+      "no_projects_description": "Create your first project to get started.",
+      "create": "Create project",
+      "create_title": "Create New Project",
+      "create_description": "Enter a name for the new project. Click create when finished.",
+      "create_placeholder": "My new project",
+      "create_button": "Create",
+      "show_all": "Show all projects"
+    },
+    "server": {
+      "name": "Name:",
+      "ip": "IP:",
+      "status": "Status:",
+      "status_active": "Enabled",
+      "actions": {
+        "start": "Start",
+        "restart": "Restart",
+        "stop": "Stop"
+      },
+      "tabs": {
+        "console": "Console",
+        "files": "Files",
+        "players": "Players",
+        "databases": "Databases",
+        "schedules": "Scheduler",
+        "plugins": "Plugins",
+        "mods": "Mods",
+        "versions": "Versions",
+        "worlds": "Worlds",
+        "backups": "Backups",
+        "firewall": "Firewall",
+        "wiper": "Wiper",
+        "config": "Configuration",
+        "access": "Access",
+        "settings": "Settings"
+      },
+      "resources": {
+        "title": "Resource Usage",
+        "cpu": "CPU",
+        "memory": "Memory",
+        "storage": "Storage"
+      },
+      "settings": {
+        "title": "General Settings",
+        "description": "Basic parameters of your server.",
+        "name_label": "Server name",
+        "save": "Save"
+      },
+      "access": {
+        "title": "Server Access",
+        "not_linked": "This server is not linked to a project.",
+        "not_linked_description": "Link it to a project to manage member access.",
+        "to_projects": "To projects",
+        "manage_access": "Manage Access",
+        "manage_access_description": "Configure access rights for members of project \"{project}\" to this server.",
+        "member": "Member",
+        "permissions": {
+          "power": "Power Management",
+          "console": "Console Access",
+          "files": "File Management",
+          "backups": "Backup Management",
+          "settings": "Server Settings"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Profile",
+        "description": "Basic settings of your account.",
+        "username": "Username",
+        "email": "Email",
+        "language": "Language",
+        "avatar": "Avatar",
+        "regenerate_avatar": "Regenerate",
+        "currency": "Currency",
+        "password": "Password",
+        "regenerate_password": "Generate new",
+        "save": "Save changes",
+        "saved": "Changes saved successfully!"
+      },
+      "balance": {
+        "title": "Balance",
+        "description": "Manage your balance and choose a top-up method.",
+        "current_balance": "Current balance",
+        "payment_method": "Top-up method",
+        "payment_methods": {
+          "robokassa": "Robokassa"
+        },
+        "payment_recommendations": {
+          "robokassa": "Russian cards, e-wallets"
+        },
+        "amount": "Top-up amount",
+        "amount_placeholder": "0.00",
+        "quick_add": "+ {amount}",
+        "top_up": "Top up balance",
+        "processing": "Processing...",
+        "success": "Balance successfully topped up by {amount}!"
+      },
+      "referral": {
+        "title": "Referral Program",
+        "description": "Invite friends and get bonuses",
+        "link": "Your referral link",
+        "code": "Your code:",
+        "referrer": "You were invited by",
+        "unlink": "Unlink",
+        "no_referrer": "You came without an invitation, but you can specify a referral code.",
+        "apply_referrer": "Apply",
+        "referred": "Invited by you ({count})",
+        "no_referred": "You haven't invited anyone yet"
+      },
+      "notifications": {
+        "title": "Notification Settings",
+        "description": "Choose which notifications and where you want to receive them.",
+        "security": "Security",
+        "security_login": "New logins",
+        "security_login_description": "Alerts about login from a new device.",
+        "security_otp": "Login codes",
+        "security_otp_description": "One-time codes for login and registration.",
+        "security_topup": "Balance top-up",
+        "security_topup_description": "Notifications about successful balance top-up.",
+        "support": "Support",
+        "support_messages": "Ticket responses",
+        "support_messages_description": "Notifications about responses from support.",
+        "news": "News and Updates",
+        "news_updates": "Platform news",
+        "news_updates_description": "Information about new features and updates.",
+        "retention": "Website notification storage",
+        "retention_auto": "Automatic deletion",
+        "retention_auto_description": "Delete read website notifications after the specified period.",
+        "retention_periods": {
+          "1w": "1 week",
+          "1m": "1 month",
+          "6m": "6 months",
+          "never": "Never"
+        },
+        "retention_exceptions": "Exceptions",
+        "retention_exceptions_description": "Marked notification types will not be automatically deleted, even after reading.",
+        "save": "Save settings"
+      },
+      "sessions": {
+        "title": "Active Sessions",
+        "description": "Devices where you are logged into your account.",
+        "terminate": "Terminate all sessions",
+        "terminate_confirm": "Terminate all sessions?",
+        "terminate_confirm_description": "Are you sure you want to terminate all sessions? The user will be logged out from all devices. You will need to log in again on them.",
+        "device": "Device",
+        "browser": "Browser",
+        "location": "Location",
+        "ip": "IP address",
+        "last_active": "Last activity",
+        "status": "Status",
+        "current": "Current",
+        "active": "Active",
+        "logout": "Logout",
+        "logout_confirm": "Terminate session?",
+        "logout_confirm_description": "Are you sure you want to terminate this session? The user will be logged out from this device.",
+        "no_sessions": "No active sessions",
+        "unknown": "Unknown"
+      },
+      "promo": {
+        "title": "Promo Code Activation",
+        "description": "Enter your promo code to receive bonuses.",
+        "placeholder": "Enter promo code",
+        "activate": "Activate",
+        "activated": "Promo code activated successfully!",
+        "invalid": "Invalid promo code"
+      }
+    }
+  }
+}

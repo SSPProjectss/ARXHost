@@ -1,0 +1,990 @@
+{
+  "header": {
+    "home": "Главная",
+    "vps": "VPS",
+    "docs": "Документация",
+    "support": "Поддержка",
+    "about": "О нас",
+    "dashboard": "Панель",
+    "login": "Войти",
+    "register": "Регистрация",
+    "language": {
+      "switch": "Русский",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Надежный игровой хостинг с максимальной производительностью и круглосуточной поддержкой. Ваш сервер — ваша свобода.",
+    "support_email": "support@arx.pro",
+    "support_label": "Поддержка:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Сотрудничество:",
+    "games": {
+      "title": "Игры",
+      "minecraft": "Minecraft",
+      "rust": "Rust"
+    },
+    "services": {
+      "title": "Услуги",
+      "vps": "VPS/VDS",
+      "dedicated": "Выделенные серверы",
+      "web_hosting": "Веб-хостинг"
+    },
+    "support": {
+      "title": "Поддержка",
+      "contact": "Связаться с нами",
+      "terms": "Пользовательское соглашение",
+      "rules": "Правила использования"
+    },
+    "social": {
+      "title": "Мы в соцсетях",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. Все права защищены."
+  },
+  "home": {
+    "hero": {
+      "badge": "Игровой хостинг нового поколения",
+      "title": {
+        "line1": "Ваш сервер",
+        "line2": "Ваша свобода"
+      },
+      "description": "Быстрый, надежный и безопасный хостинг для любых игровых серверов с панелью управления в один клик.",
+      "buttons": {
+        "start_server": "Запустить игровой сервер",
+        "deploy_vds": "Развернуть VDS"
+      }
+    },
+    "metrics": {
+      "performance": {
+        "label": "Высокая производительность",
+        "description": "Хранилище NVMe SSD"
+      },
+      "network": {
+        "label": "Глобальная сеть",
+        "description": "15+ локаций"
+      },
+      "users": {
+        "label": "Активные пользователи"
+      }
+    },
+    "features": {
+      "title": "Все, что нужно для вашего проекта",
+      "description": "Мы предоставляем мощные инструменты и функции, чтобы ваш проект работал быстро и стабильно.",
+      "deployment": {
+        "title": "Мгновенное развертывание",
+        "description": "Ваш сервер будет готов за секунды"
+      },
+      "ddos": {
+        "title": "Защита от DDoS",
+        "description": "Продвинутая защита от атак"
+      },
+      "ping": {
+        "title": "Низкий пинг",
+        "description": "Оптимизированная сеть для игр"
+      },
+      "support": {
+        "title": "Поддержка 24/7",
+        "description": "Наша команда всегда готова помочь"
+      }
+    },
+    "services": {
+      "title": "Наши услуги",
+      "description": "Выберите идеальное решение для ваших нужд.",
+      "minecraft": {
+        "title": "Хостинг Minecraft",
+        "description": "Оптимизированные серверы для Minecraft с установкой модов в один клик и надежной защитой."
+      },
+      "dedicated": {
+        "title": "Выделенные серверы",
+        "description": "Полный контроль и максимальная производительность для самых требовательных проектов."
+      },
+      "rust": {
+        "title": "Хостинг Rust",
+        "description": "Высокопроизводительные серверы для Rust с гарантированным онлайном и поддержкой плагинов."
+      },
+      "vps": {
+        "title": "VPS/VDS Серверы",
+        "description": "Гибкие и мощные виртуальные серверы с полным root-доступом для любых ваших задач и проектов."
+      },
+      "learn_more": "Узнать больше"
+    }
+  },
+  "vps": {
+    "title": "Виртуальные серверы",
+    "subtitle": "НОВОГО ПОКОЛЕНИЯ",
+    "description": "Высокопроизводительные VPS с NVMe SSD дисками, защитой от DDoS-атак и гарантией доступности 99.9%. Идеальное решение для бизнеса и разработки.",
+    "buttons": {
+      "select_plan": "Выбрать тариф",
+      "available_os": "Доступные ОС"
+    },
+    "features": {
+      "instant": "Мгновенное развертывание",
+      "no_hidden": "Без скрытых платежей"
+    },
+    "metrics": {
+      "uptime": {
+        "value": "99.9%",
+        "label": "Гарантия доступности"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "Защита от DDoS"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Техническая поддержка"
+      },
+      "deployment": {
+        "value": "5 мин",
+        "label": "Время развертывания"
+      }
+    },
+    "tabs": {
+      "plans": "Готовые решения",
+      "custom": "Свой тариф"
+    },
+    "pricing": {
+      "title": "Выберите ваш тариф",
+      "description": "Гибкие и прозрачные тарифы для любых задач, от небольших проектов до высоконагруженных приложений.",
+      "custom_title": "Соберите свой сервер",
+      "custom_description": "Используйте калькулятор, чтобы подобрать идеальную конфигурацию под ваши задачи.",
+      "table": {
+        "plan": "Тариф",
+        "cpu": "Процессор",
+        "memory": "Память",
+        "disk": "Диск",
+        "network": "Канал",
+        "price": "Цена",
+        "order": "Заказать",
+        "recommended": "Рекомендуем"
+      }
+    },
+    "faq": {
+      "title": "Частые вопросы",
+      "description": "Не нашли ответа? Свяжитесь с нами, и мы поможем.",
+      "questions": {
+        "what_is_vps": {
+          "question": "Что такое VPS/VDS хостинг?",
+          "answer": "VPS (Virtual Private Server) или VDS (Virtual Dedicated Server) — это услуга, в рамках которой пользователю предоставляется виртуальный выделенный сервер. Вы получаете полный контроль над системой (root-доступ) и можете устанавливать любое ПО."
+        },
+        "difference": {
+          "question": "Чем ваш VPS хостинг отличается от других?",
+          "answer": "Мы используем только современное оборудование с быстрыми NVMe SSD дисками, обеспечиваем безлимитный трафик и предоставляем надежную DDoS-защиту на всех тарифах. Наша цель — предложить максимальную производительность по доступной цене."
+        },
+        "change_plan": {
+          "question": "Могу ли я изменить тарифный план в будущем?",
+          "answer": "Да, вы можете легко масштабировать ресурсы вашего сервера в любой момент. Переход на более мощный тариф происходит быстро и с минимальным временем простоя."
+        },
+        "operating_system": {
+          "question": "Какую операционную систему я могу установить?",
+          "answer": "Мы предлагаем на выбор популярные дистрибутивы Linux, такие как Ubuntu, Debian, CentOS. Вы можете выбрать нужную ОС при заказе сервера."
+        }
+      }
+    }
+  },
+  "minecraft": {
+    "title": "MINECRAFT SERVER HOSTING",
+    "description": "Надёжный хостинг Minecraft-серверов с мгновенным запуском и DDoS-защитой",
+    "features": {
+      "uptime": "99.8% Аптайм",
+      "fast_startup": "Быстрый запуск",
+      "plugins": "Установка плагинов",
+      "ddos_protection": "DDoS защита",
+      "support": "Поддержка 24/7",
+      "refund": "Возврат 3 дня"
+    },
+    "buttons": {
+      "start_server": "Запустить сервер",
+      "view_plans": "Смотреть тарифы"
+    },
+    "pricing": {
+      "title": "Выберите оптимальный тариф",
+      "description": "Мы предлагаем гибкие тарифные планы для любых потребностей",
+      "small": {
+        "name": "Small",
+        "description": "Для друзей"
+      },
+      "medium": {
+        "name": "Medium",
+        "description": "Для мини-комьюнити"
+      },
+      "large": {
+        "name": "Large",
+        "description": "Оптимум, для большого комьюнити"
+      },
+      "custom": {
+        "title": "Нужен индивидуальный тариф?",
+        "description": "Настройте параметры сервера под ваши требования. Наш конфигуратор поможет создать оптимальное решение для вашего проекта любой сложности.",
+        "button": "Настроить сервер",
+        "infrastructure": {
+          "title": "Оборудование и инфраструктура",
+          "cpu": "Ryzen 9 7950X @ 5.6GHz",
+          "disk": "NVMe SSD 3000MB/s+",
+          "network": "1–10 Gbps uplink",
+          "ddos": "Enterprise-level DDoS protection"
+        }
+      }
+    }
+  },
+  "rust": {
+    "title": "RUST SERVER HOSTING",
+    "description": "Мощные серверы для Rust с гарантированным онлайном и поддержкой плагинов.",
+    "features": {
+      "online": "Высокий онлайн",
+      "fast_startup": "Быстрый запуск",
+      "plugins": "Поддержка uMod/Oxide",
+      "ddos_protection": "DDoS защита",
+      "support": "Поддержка 24/7",
+      "low_ping": "Низкий пинг"
+    },
+    "buttons": {
+      "start_server": "Запустить сервер",
+      "view_plans": "Смотреть тарифы"
+    },
+    "pricing": {
+      "title": "Выберите оптимальный тариф",
+      "description": "Мы предлагаем гибкие тарифные планы для любых потребностей",
+      "popular": "ПОПУЛЯРНОЕ"
+    }
+  },
+  "support": {
+    "title": "Поддержка",
+    "description": "Нужна помощь? Свяжитесь с нашей службой поддержки любым удобным способом.",
+    "options": {
+      "email": {
+        "title": "Электронная почта",
+        "description": "Отправьте нам письмо на support@arxhosting.ru",
+        "response": "Ответ в течение 24 часов"
+      },
+      "chat": {
+        "title": "Онлайн чат",
+        "description": "Получите мгновенную помощь через чат",
+        "response": "Ответ в течение 5 минут"
+      },
+      "phone": {
+        "title": "Телефон",
+        "description": "Позвоните нам по телефону +7 (495) 123-45-67",
+        "response": "Рабочие часы: 9:00-21:00"
+      }
+    },
+    "form": {
+      "title": "Отправить сообщение",
+      "description": "Заполните форму ниже, и мы свяжемся с вами в ближайшее время.",
+      "email": "Email",
+      "email_placeholder": "your@email.com",
+      "subject": "Тема",
+      "subject_placeholder": "Кратко опишите проблему",
+      "message": "Сообщение",
+      "message_placeholder": "Подробно опишите ваш вопрос или проблему",
+      "submit": "Отправить сообщение",
+      "success": {
+        "title": "Сообщение отправлено",
+        "description": "Мы свяжемся с вами в ближайшее время."
+      }
+    }
+  },
+  "docs": {
+    "title": "Документация",
+    "description": "Официальные документы и руководства по использованию сервиса",
+    "categories": {
+      "title": "Категории документов",
+      "description": "Найдите нужную информацию в наших документах, организованных по категориям"
+    },
+    "no_docs": {
+      "title": "Документы не найдены",
+      "description": "В данный момент нет доступных документов."
+    },
+    "read": "Читать",
+    "download": "Скачать",
+    "important": {
+      "title": "Важная информация",
+      "description1": "Все документы, представленные на этой странице, являются официальными юридическими документами сервиса ARX Host. Пожалуйста, внимательно ознакомьтесь с ними перед использованием наших услуг.",
+      "description2": "Документы могут быть изменены в любое время. Дата последнего обновления указана в каждом документе. Продолжение использования сервиса после внесения изменений означает согласие с новой редакцией."
+    },
+    "help": {
+      "title": "Нужна помощь?",
+      "description": "Если у вас есть вопросы по документам или вам нужна дополнительная помощь, свяжитесь с нашей службой поддержки",
+      "support": "Написать в поддержку",
+      "ticket": "Открыть тикет"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Вход в аккаунт",
+      "description": "Введите свою электронную почту для входа.",
+      "email": "Эл. почта",
+      "email_placeholder": "mail@example.com",
+      "continue": "Продолжить",
+      "no_account": "Нет аккаунта?",
+      "register": "Зарегистрироваться",
+      "user_not_found": "Пользователь не найден",
+      "register_prompt": "Зарегистрироваться?"
+    },
+    "register": {
+      "title": "Создание аккаунта",
+      "description": "Заполните данные для регистрации.",
+      "login": "Логин",
+      "login_placeholder": "username",
+      "email": "Эл. почта",
+      "email_placeholder": "mail@example.com",
+      "continue": "Продолжить",
+      "has_account": "Уже есть аккаунт?",
+      "login_prompt": "Войти"
+    },
+    "otp": {
+      "title": "Проверьте почту",
+      "description": "Мы отправили код и ссылку на {email}.",
+      "email_label": "Эл. почта",
+      "code_label": "Код подтверждения",
+      "code_placeholder": "Введите код подтверждения",
+      "confirm": "Подтвердить и войти",
+      "resend": "Отправить код повторно",
+      "resend_timer": "Отправить код повторно ({timer})",
+      "verification_error": "Неверный код подтверждения"
+    },
+    "user_frozen": {
+      "title": "Аккаунт заморожен",
+      "description": "Этот аккаунт был временно заблокирован.",
+      "support_prompt": "Для разблокировки обратитесь в ",
+      "support_link": "службу поддержки"
+    },
+    "logout": "Выйти",
+    "general_errors": {
+      "unauthenticated": "Пожалуйста, войдите, чтобы получить доступ к этой странице.",
+      "logged_out": "Вы успешно вышли из системы.",
+      "user_exists": "Аккаунт с таким email уже существует. Пожалуйста, войдите."
+    }
+  },
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Доброй ночи",
+        "morning": "Доброе утро",
+        "day": "Добрый день",
+        "evening": "Добрый вечер"
+      }
+    },
+    "stats": {
+      "balance": "Баланс",
+      "balance_description": "Доступно для оплаты",
+      "active_projects": "Активные проекты",
+      "active_projects_description": "Всего проектов",
+      "open_tickets": "Открытые тикеты",
+      "open_tickets_description": "Обращения в поддержку"
+    },
+    "servers": {
+      "title": "Мои серверы",
+      "description": "Управление вашими серверами",
+      "search_placeholder": "Поиск серверов...",
+      "order": "Сортировать",
+      "order_prompt": "Перетащите для изменения порядка",
+      "no_servers": "Нет серверов",
+      "no_servers_description": "Добавьте сервер, чтобы начать",
+      "no_servers_found": "Серверы не найдены",
+      "no_servers_found_description": "По запросу \"{query}\" серверы не найдены",
+      "order_servers": "Заказать сервер"
+    },
+    "projects": {
+      "title": "Активные проекты",
+      "description": "Обзор ваших текущих проектов",
+      "no_projects": "У вас пока нет проектов",
+      "no_projects_description": "Создайте первый проект, чтобы начать.",
+      "create": "Создать проект",
+      "create_title": "Создать новый проект",
+      "create_description": "Введите название для нового проекта. Нажмите создать, когда закончите.",
+      "create_placeholder": "Мой новый проект",
+      "create_button": "Создать",
+      "show_all": "Показать все проекты"
+    },
+    "server": {
+      "name": "Имя:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Включен",
+      "actions": {
+        "start": "Запустить",
+        "restart": "Перезапустить",
+        "stop": "Остановить"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файлы",
+        "players": "Игроки",
+        "databases": "Базы данных",
+        "schedules": "Планировщик",
+        "plugins": "Плагины",
+        "mods": "Моды",
+        "versions": "Версии",
+        "worlds": "Миры",
+        "backups": "Бэкапы",
+        "firewall": "Фаерволл",
+        "wiper": "Wiper",
+        "config": "Конфигурация",
+        "access": "Доступ",
+        "settings": "Настройки"
+      },
+      "resources": {
+        "title": "Использование ресурсов",
+        "cpu": "CPU",
+        "memory": "Память",
+        "storage": "Хранилище"
+      },
+      "settings": {
+        "title": "Общие настройки",
+        "description": "Основные параметры вашего сервера.",
+        "name_label": "Название сервера",
+        "save": "Сохранить"
+      },
+      "access": {
+        "title": "Доступ к серверу",
+        "not_linked": "Этот сервер не привязан к проекту.",
+        "not_linked_description": "Привяжите его к проекту, чтобы управлять доступом участников.",
+        "to_projects": "К проектам",
+        "manage_access": "Управление доступом",
+        "manage_access_description": "Настройте права доступа для участников проекта \"{project}\" к этому серверу.",
+        "member": "Участник",
+        "permissions": {
+          "power": "Управление питанием",
+          "console": "Доступ к консоли",
+          "files": "Управление файлами",
+          "backups": "Управление бэкапами",
+          "settings": "Настройки сервера"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Профиль",
+        "description": "Основные настройки вашего аккаунта.",
+        "username": "Логин",
+        "email": "Эл. почта",
+        "language": "Язык",
+        "avatar": "Аватар",
+        "regenerate_avatar": "Перегенерировать",
+        "currency": "Валюта",
+        "password": "Пароль",
+        "regenerate_password": "Сгенерировать новый",
+        "save": "Сохранить изменения",
+        "saved": "Изменения успешно сохранены!"
+      },
+      "balance": {
+        "title": "Баланс",
+        "description": "Управляйте вашим балансом и выбирайте способ пополнения.",
+        "current_balance": "Текущий баланс",
+        "payment_method": "Способ пополнения",
+        "payment_methods": {
+          "stripe": "Stripe",
+          "robokassa": "Robokassa",
+          "cryptomus": "Heleket (Cryptomus)",
+          "morune": "morune"
+        },
+        "payment_recommendations": {
+          "stripe": "Карты, Apple/Google Pay",
+          "robokassa": "Карты РФ, эл. кошельки",
+          "cryptomus": "Криптовалюты (BTC, ETH, USDT)",
+          "morune": "Банковские переводы"
+        },
+        "amount": "Сумма пополнения",
+        "amount_placeholder": "0.00",
+        "quick_add": "+ {amount}",
+        "top_up": "Пополнить баланс",
+        "processing": "Обработка...",
+        "success": "Баланс успешно пополнен на {amount}!"
+      },
+      "referral": {
+        "title": "Реферальная программа",
+        "description": "Приглашайте друзей и получайте бонусы",
+        "link": "Ваша реферальная ссылка",
+        "code": "Ваш код:",
+        "referrer": "Вас пригласил",
+        "unlink": "Отвязаться",
+        "no_referrer": "Вы пришли без приглашения, но вы можете указать реферальный код.",
+        "apply_referrer": "Применить",
+        "referred": "Приглашенные вами ({count})",
+        "no_referred": "Вы пока никого не пригласили"
+      },
+      "notifications": {
+        "title": "Настройки уведомлений",
+        "description": "Выберите, какие уведомления и куда вы хотите получать.",
+        "security": "Безопасность",
+        "security_login": "Новые входы",
+        "security_login_description": "Оповещения о входе с нового устройства.",
+        "security_otp": "Коды для входа",
+        "security_otp_description": "Одноразовые коды для входа и регистрации.",
+        "security_topup": "Пополнение баланса",
+        "security_topup_description": "Уведомления об успешном пополнении баланса.",
+        "support": "Поддержка",
+        "support_messages": "Ответы на тикеты",
+        "support_messages_description": "Уведомления об ответах от службы поддержки.",
+        "news": "Новости и обновления",
+        "news_updates": "Новости платформы",
+        "news_updates_description": "Информация о новых функциях и обновлениях.",
+        "retention": "Хранение уведомлений на сайте",
+        "retention_auto": "Автоматическое удаление",
+        "retention_auto_description": "Удалять прочитанные уведомления на сайте через указанный период.",
+        "retention_periods": {
+          "1w": "1 неделя",
+          "1m": "1 месяц",
+          "6m": "6 месяцев",
+          "never": "Никогда"
+        },
+        "retention_exceptions": "Исключения",
+        "retention_exceptions_description": "Отмеченные типы уведомлений не будут удаляться автоматически, даже после прочтения.",
+        "save": "Сохранить настройки"
+      },
+      "sessions": {
+        "title": "Активные сессии",
+        "description": "Устройства, на которых выполнен вход в ваш аккаунт.",
+        "terminate": "Завершить все сессии",
+        "terminate_confirm": "Завершить все сессии?",
+        "terminate_confirm_description": "Вы уверены, что хотите завершить все сессии? Пользователь будет разлогинен со всех устройств. Вам потребуется снова войти в систему на них.",
+        "device": "Устройство",
+        "browser": "Браузер",
+        "location": "Местоположение",
+        "ip": "IP-адрес",
+        "last_active": "Последняя активность",
+        "status": "Статус",
+        "current": "Текущий",
+        "active": "Активен",
+        "logout": "Выйти",
+        "logout_confirm": "Завершить сессию?",
+        "logout_confirm_description": "Вы уверены, что хотите завершить эту сессию? Пользователь будет разлогинен с этого устройства.",
+        "no_sessions": "Нет активных сессий",
+        "unknown": "Неизвестно"
+      },
+      "promo": {
+        "title": "Активация промокода",
+        "description": "Введите промокод, чтобы получить бонус на свой баланс.",
+        "label": "Промокод",
+        "placeholder": "WELCOME-100",
+        "activate": "Активировать",
+        "activating": "Активация..."
+      },
+      "background": {
+        "title": "Фон дашборда",
+        "description": "Настройте фон по своему вкусу.",
+        "type": "Тип фона",
+        "default": "По умолчанию",
+        "gradient": "Градиент",
+        "gradient_settings": "Настройки градиента",
+        "gradient_type": "Тип градиента",
+        "static": "Статичный",
+        "animated": "Анимированный",
+        "colors": "Цвета",
+        "angle": "Угол градиента",
+        "save": "Сохранить фон",
+        "reset": "Сбросить"
+      }
+    },
+    "domains": {
+      "title": "Регистрация домена",
+      "description": "Найдите идеальное имя для своего проекта. Мы проверим его доступность сразу в нескольких популярных зонах.",
+      "placeholder": "например, my-cool-site",
+      "check": "Проверить",
+      "has_domain": "Уже есть домен",
+      "available": "Доступен",
+      "premium": "Премиум",
+      "unavailable": "Занят",
+      "buy": "Купить",
+      "suggestions": "Идеи от AI",
+      "suggestions_description": "Основные домены заняты. Вот несколько креативных альтернатив, которые могут быть свободны.",
+      "error": "Пожалуйста, введите имя домена для проверки."
+    },
+    "telegram": {
+      "title": "Telegram",
+      "description": "Подключите ваш Telegram аккаунт",
+      "linked": "Telegram подключен",
+      "linked_description": "Ваш аккаунт успешно привязан к Telegram",
+      "pending": "Подтверждение ожидается",
+      "pending_description": "Отправьте следующий код боту в Telegram:",
+      "verification_code": "Код подтверждения из Telegram",
+      "verification_placeholder": "Введите код подтверждения",
+      "verify": "Подтвердить привязку",
+      "link": "Подключить Telegram",
+      "unlink": "Отвязать Telegram",
+      "cancel": "Отмена"
+    }
+  },
+  "components": {
+    "ui": {
+      "button": {
+        "send": "SEND"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Основная конфигурация",
+        "location": "Локация",
+        "os": "Операционная система",
+        "resources": "Ресурсы",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Диск",
+        "additional": "Дополнительные опции",
+        "backups": "Бэкапы",
+        "ip": "IPv4-адреса",
+        "network": "Канал",
+        "summary": "Сводка по заказу",
+        "total": "Итого в месяц:",
+        "order": "Перейти к заказу"
+      }
+    }
+  },
+  "errors": {
+    "404": {
+      "title": "Страница не найдена",
+      "description": "К сожалению, мы не смогли найти страницу, которую вы ищете. Возможно, она была перемещена или удалена.",
+      "button": "← Вернуться на главную"
+    },
+    "500": {
+      "title": "Что-то пошло не так",
+      "description": "К сожалению, в приложении произошла непредвиденная ошибка. Попробуйте перезагрузить страницу.",
+      "retry": "Попробовать снова",
+      "home": "Вернуться на главную"
+    }
+  },
+  "wiki": {
+    "pages": "Страницы",
+    "last_updated": "Последнее обновление: {date}",
+    "verified": "Проверено",
+    "dated": "Информация верная",
+    "outdated": "Информация могла устареть",
+    "verification_tooltip": {
+      "outdated": "Информация подтверждена, но не обновлялась более 60 дней. Последняя проверка: {date}",
+      "verified": "Информация проверена и актуальна. Проверка от: {date}"
+    },
+    "manage": "Управлять",
+    "toc": "Оглавление",
+    "page_not_found": {
+      "title": "Страница не найдена",
+      "description": "Выбранная страница не существует, или для этой Wiki еще не задана главная страница."
+    }
+  },
+  "web": {
+    "server": {
+      "name": "Имя:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Включен",
+      "actions": {
+        "start": "Запустить",
+        "restart": "Перезапустить",
+        "stop": "Остановить"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файлы",
+        "web_server": "Web Server",
+        "config": "Конфигурация",
+        "access": "Доступ",
+        "settings": "Настройки"
+      },
+      "resources": {
+        "title": "Использование ресурсов",
+        "cpu": "CPU",
+        "memory": "Память",
+        "storage": "Хранилище"
+      },
+      "settings": {
+        "title": "Общие настройки",
+        "description": "Основные параметры вашего сервера.",
+        "name_label": "Название сервера",
+        "save": "Сохранить"
+      }
+    }
+  },
+  "games": {
+    "common": {
+      "features": {
+        "uptime": "Аптайм",
+        "fast_startup": "Быстрый запуск",
+        "plugins": "Установка плагинов",
+        "ddos_protection": "DDoS защита",
+        "support": "Поддержка 24/7",
+        "refund": "Возврат 3 дня",
+        "online": "Высокий онлайн",
+        "low_ping": "Низкий пинг"
+      },
+      "buttons": {
+        "start_server": "Запустить сервер",
+        "view_plans": "Смотреть тарифы",
+        "configure": "Настроить сервер"
+      },
+      "pricing": {
+        "title": "Выберите оптимальный тариф",
+        "description": "Мы предлагаем гибкие тарифные планы для любых потребностей"
+      },
+      "custom_plan": {
+        "title": "Нужен индивидуальный тариф?",
+        "description": "Настройте параметры сервера под ваши требования. Наш конфигуратор поможет создать оптимальное решение для вашего проекта любой сложности.",
+        "infrastructure": {
+          "title": "Оборудование и инфраструктура",
+          "cpu": "Ryzen 9 7950X @ 5.6GHz",
+          "disk": "NVMe SSD 3000MB/s+",
+          "network": "1–10 Gbps uplink",
+          "ddos": "Enterprise-level DDoS protection"
+        }
+      }
+    },
+    "minecraft": {
+      "title": "MINECRAFT SERVER HOSTING",
+      "description": "Надёжный хостинг Minecraft-серверов с мгновенным запуском и DDoS-защитой",
+      "features": {
+        "uptime": "99.8% Аптайм",
+        "fast_startup": "Быстрый запуск",
+        "plugins": "Установка плагинов",
+        "ddos_protection": "DDoS защита",
+        "support": "Поддержка 24/7",
+        "refund": "Возврат 3 дня"
+      },
+      "buttons": {
+        "start_server": "Запустить сервер",
+        "view_plans": "Смотреть тарифы"
+      },
+      "pricing": {
+        "title": "Выберите оптимальный тариф",
+        "description": "Мы предлагаем гибкие тарифные планы для любых потребностей",
+        "small": {
+          "name": "Small",
+          "description": "Для друзей"
+        },
+        "medium": {
+          "name": "Medium",
+          "description": "Для мини-комьюнити"
+        },
+        "large": {
+          "name": "Large",
+          "description": "Оптимум, для большого комьюнити"
+        },
+        "custom": {
+          "title": "Нужен индивидуальный тариф?",
+          "description": "Настройте параметры сервера под ваши требования. Наш конфигуратор поможет создать оптимальное решение для вашего проекта любой сложности.",
+          "button": "Настроить сервер",
+          "infrastructure": {
+            "title": "Оборудование и инфраструктура",
+            "cpu": "Ryzen 9 7950X @ 5.6GHz",
+            "disk": "NVMe SSD 3000MB/s+",
+            "network": "1–10 Gbps uplink",
+            "ddos": "Enterprise-level DDoS protection"
+          }
+        }
+      },
+      "plan_features": {
+        "small": [
+          "Процессор 1 vCPU",
+          "Память 10ГБ",
+          "Диск 100ГБ",
+          "1 порт",
+          "0 БД",
+          "1 резервная копия",
+          "Защита от DDoS-атак",
+          "Техническая поддержка 24/7"
+        ],
+        "medium": [
+          "Процессор 2 vCPU",
+          "Память 20ГБ",
+          "Диск 200ГБ",
+          "2 порта",
+          "1 БД",
+          "1 резервная копия",
+          "Защита от DDoS-атак",
+          "Техническая поддержка 24/7"
+        ],
+        "large": [
+          "Процессор 3 vCPU",
+          "Память 30ГБ",
+          "Диск 300ГБ",
+          "3 порта",
+          "2 БД",
+          "1 резервная копия",
+          "Защита от DDoS-атак",
+          "Техническая поддержка 24/7"
+        ]
+      }
+    },
+    "rust": {
+      "title": "RUST SERVER HOSTING",
+      "description": "Мощные серверы для Rust с гарантированным онлайном и поддержкой плагинов.",
+      "features": {
+        "online": "Высокий онлайн",
+        "fast_startup": "Быстрый запуск",
+        "plugins": "Поддержка uMod/Oxide",
+        "ddos_protection": "DDoS защита",
+        "support": "Поддержка 24/7",
+        "low_ping": "Низкий пинг"
+      },
+      "buttons": {
+        "start_server": "Запустить сервер",
+        "view_plans": "Смотреть тарифы"
+      },
+      "pricing": {
+        "title": "Выберите оптимальный тариф",
+        "description": "Мы предлагаем гибкие тарифные планы для любых потребностей",
+        "popular": "ПОПУЛЯРНОЕ"
+      }
+    }
+  },
+  "dedic": {
+    "title": "Выделенные серверы",
+    "subtitle": "МАКСИМУМ МОЩНОСТИ",
+    "description": "Арендуйте физические серверы с полным контролем над ресурсами. Максимальная производительность, безопасность и гибкость для самых требовательных проектов.",
+    "buttons": {
+      "select_server": "Выбрать сервер",
+      "full_root_access": "Полный root-доступ",
+      "guaranteed_resources": "Гарантированные ресурсы"
+    },
+    "metrics": {
+      "resources": {
+        "value": "100%",
+        "label": "Гарантированные ресурсы"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "Защита от DDoS"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Техническая поддержка"
+      },
+      "deployment": {
+        "value": "1 час",
+        "label": "Время развертывания"
+      }
+    },
+    "pricing": {
+      "title": "Конфигурации серверов",
+      "description": "Выберите готовую конфигурацию или свяжитесь с нами для подбора индивидуального решения.",
+      "plan": "Тариф",
+      "cpu": "Процессор",
+      "memory": "Память",
+      "disk": "Диск",
+      "network": "Канал",
+      "in_stock": "В наличии",
+      "price": "Цена",
+      "order": "Заказать",
+      "recommended": "Рекомендуем"
+    },
+    "faq": {
+      "title": "Частые вопросы",
+      "description": "Не нашли ответа? {link}, и мы поможем.",
+      "contact_us": "Свяжитесь с нами",
+      "questions": {
+        "what_is_dedicated": {
+          "question": "Что такое выделенный сервер?",
+          "answer": "Выделенный сервер — это физическая машина, все ресурсы которой полностью предоставлены в ваше распоряжение. В отличие от VPS, вы не делите процессор, память или диск с другими пользователями, что обеспечивает максимальную производительность и безопасность."
+        },
+        "use_cases": {
+          "question": "Для каких задач подходит выделенный сервер?",
+          "answer": "Выделенный серверы идеальны для высоконагруженных проектов: крупных интернет-магазинов, игровых серверов с большим онлайном, баз данных, приложений для анализа данных и любых задач, требующих гарантированной производительности и полной изоляции."
+        },
+        "customization": {
+          "question": "Могу ли я кастомизировать конфигурацию?",
+          "answer": "Да, в большинстве случаев мы можем предложить кастомные конфигурации. Свяжитесь с нашей службой поддержки, чтобы обсудить ваши требования к процессору, оперативной памяти, дискам и сетевым подключениям."
+        },
+        "administration": {
+          "question": "Что входит в услугу администрирования?",
+          "answer": "Базовое администрирование включает первоначальную настройку сервера, установку ОС и панели управления. Полное администрирование — это комплексная услуга, включающая мониторинг, регулярные обновления, резервное копирование и решение технических проблем. Вы можете выбрать подходящий уровень поддержки при заказе."
+        }
+      }
+    }
+  },
+  "api": {
+    "endpoint": "API Endpoint",
+    "description": "Этот эндпоинт API предназначен только для программных запросов.",
+    "docs": "Если вы разработчик, проверьте документацию API для получения дополнительной информации.",
+    "error_code": "Код ошибки 403",
+    "back_to_home": "На главную"
+  },
+  "web_server": {
+    "tabs": {
+      "overview": "Overview",
+      "domains": "Domains",
+      "ssl": "SSL",
+      "config": "Config",
+      "security": "Security"
+    },
+    "overview": {
+      "domains": "Domains",
+      "ssl_certificates": "SSL Certificates",
+      "databases": "Databases",
+      "storage": "Storage",
+      "quick_actions": "Quick Actions",
+      "add_domain": "Add Domain",
+      "ssl_certificate": "SSL Certificate",
+      "new_database": "New Database",
+      "edit_config": "Edit Config",
+      "resource_usage": "Resource Usage",
+      "cpu": "CPU",
+      "memory": "Memory",
+      "disk": "Disk"
+    },
+    "domains": {
+      "title": "Domain Management",
+      "description": "Add and manage domains for your web server",
+      "placeholder": "example.com",
+      "add_domain": "Add Domain",
+      "ssl_status": "SSL Status",
+      "secured": "Secured",
+      "not_secured": "Not secured",
+      "status": "Status",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "ssl": {
+      "title": "SSL Certificates",
+      "description": "Manage SSL certificates for your domains",
+      "add_certificate": "Add Certificate",
+      "issuer": "Issuer",
+      "expires": "Expires",
+      "valid": "valid",
+      "download": "Download"
+    },
+    "config": {
+      "title": "Configuration Files",
+      "description": "Edit and manage server configuration files",
+      "import": "Import",
+      "new_file": "New File",
+      "path": "Path",
+      "size": "Size",
+      "edit": "Edit",
+      "reset": "Reset",
+      "save": "Save Configuration"
+    },
+    "security": {
+      "firewall": {
+        "title": "Firewall Settings",
+        "description": "Control access to your web server",
+        "firewall": "Firewall",
+        "ddos_protection": "DDoS Protection",
+        "rate_limiting": "Rate Limiting",
+        "block_access": "Block unauthorized access attempts",
+        "protect_traffic": "Protect against traffic spikes",
+        "limit_requests": "Limit requests per IP"
+      },
+      "authentication": {
+        "title": "Authentication",
+        "description": "Secure directories with passwords",
+        "protected_directories": "Protected Directories",
+        "no_directories": "No directories currently protected",
+        "add_protection": "Add Protection"
+      },
+      "ip_access": {
+        "title": "IP Access Control",
+        "description": "Allow or deny access based on IP addresses",
+        "allow": "Allow",
+        "deny": "Deny",
+        "add_rule": "Add Rule",
+        "action": "Action"
+      }
+    }
+  }
+}

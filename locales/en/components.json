@@ -1,0 +1,27 @@
+{
+  "components": {
+    "ui": {
+      "button": {
+        "send": "SEND"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Main Configuration",
+        "location": "Location",
+        "os": "Operating System",
+        "resources": "Resources",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Disk",
+        "additional": "Additional Options",
+        "backups": "Backups",
+        "ip": "IPv4 Addresses",
+        "network": "Network",
+        "summary": "Order Summary",
+        "total": "Total per month:",
+        "order": "Proceed to Order"
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "contact_us": "Contáctenos",
+  "and_we_will_help": "y le ayudaremos",
+  "header": {
+    "home": "Inicio",
+    "vps": "VPS",
+    "docs": "Documentación",
+    "support": "Soporte",
+    "about": "Acerca de",
+    "dashboard": "Panel",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "toggle_menu": "Alternar menú",
+    "language": {
+      "switch": "Español",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "adminpanel": {
+    "users": "Usuarios",
+    "servers": "Servidores",
+    "tickets": "Tickets",
+    "statistics": "Estadísticas",
+    "web_settings": "Configuración Web",
+    "system_settings": "Configuración del sistema",
+    "expand_panel": "Expandir panel",
+    "collapse_panel": "Contraer panel",
+    "toggle_menu": "Alternar menú"
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Alojamiento de juegos confiable con máximo rendimiento y soporte 24/7. Su servidor - su libertad.",
+    "support_email": "support@arx.pro",
+    "support_label": "Soporte:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Cooperación:",
+    "games": {
+      "title": "Juegos",
+      "minecraft": "Minecraft",
+      "rust": "Rust"
+    },
+    "services": {
+      "title": "Servicios",
+      "vps": "VPS/VDS",
+      "dedicated": "Servidores dedicados",
+      "web_hosting": "Alojamiento web"
+    },
+    "support": {
+      "title": "Soporte",
+      "contact": "Contáctenos",
+      "terms": "Términos de servicio",
+      "rules": "Reglas de uso"
+    },
+    "social": {
+      "title": "Síganos",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. Todos los derechos reservados.",
+    "disclamer": "Minecraft es una marca registrada de Mojang AB. No estamos afiliados a Mojang AB."
+  },
+  "components": {
+    "ui": {
+      "button": {
+        "send": "ENVIAR"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Configuración principal",
+        "location": "Ubicación",
+        "os": "Sistema operativo",
+        "resources": "Recursos",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Disco",
+        "additional": "Opciones adicionales",
+        "backups": "Copias de seguridad",
+        "ip": "Direcciones IPv4",
+        "network": "Red",
+        "summary": "Resumen del pedido",
+        "total": "Total por mes:",
+        "order": "Proceder al pedido"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "home": {
+    "hero": {
+      "badge": "Next-generation game hosting",
+      "title": {
+        "line1": "Your server",
+        "line2": "Your freedom"
+      },
+      "description": "Fast, reliable, and secure hosting for any game servers with one-click control panel.",
+      "buttons": {
+        "start_server": "Start Game Server",
+        "deploy_vds": "Deploy VDS"
+      }
+    },
+    "metrics": {
+      "performance": {
+        "label": "High Performance",
+        "description": "NVMe SSD Storage"
+      },
+      "network": {
+        "label": "Global Network",
+        "description": "15+ locations"
+      },
+      "users": {
+        "label": "Active Users"
+      }
+    },
+    "features": {
+      "title": "Everything you need for your project",
+      "description": "We provide powerful tools and features to keep your project running fast and stable.",
+      "deployment": {
+        "title": "Instant Deployment",
+        "description": "Your server will be ready in seconds"
+      },
+      "ddos": {
+        "title": "DDoS Protection",
+        "description": "Advanced attack protection"
+      },
+      "ping": {
+        "title": "Low Ping",
+        "description": "Optimized gaming network"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our team is always ready to help"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "Choose the perfect solution for your needs.",
+      "minecraft": {
+        "title": "Minecraft Hosting",
+        "description": "Optimized servers for Minecraft with one-click mod installation and reliable protection."
+      },
+      "dedicated": {
+        "title": "Dedicated Servers",
+        "description": "Full control and maximum performance for the most demanding projects."
+      },
+      "rust": {
+        "title": "Rust Hosting",
+        "description": "High-performance servers for Rust with guaranteed online and plugin support."
+      },
+      "vps": {
+        "title": "VPS/VDS Servers",
+        "description": "Flexible and powerful virtual servers with full root access for any of your tasks and projects."
+      },
+      "learn_more": "Learn more"
+    }
+  }
+}

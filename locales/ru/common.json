@@ -1,0 +1,92 @@
+{
+  "contact_us": "Свяжитесь с нами",
+  "and_we_will_help": "и мы вам поможем",
+  "header": {
+    "home": "Главная",
+    "vps": "VPS",
+    "docs": "Документация",
+    "support": "Поддержка",
+    "about": "О нас",
+    "dashboard": "Панель",
+    "login": "Войти",
+    "register": "Регистрация",
+    "toggle_menu": "Переключить меню",
+    "language": {
+      "switch": "Русский",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "adminpanel": {
+    "users": "Пользователи",
+    "servers": "Серверы",
+    "tickets": "Тикеты",
+    "statistics": "Статистика",
+    "web_settings": "Веб-настройки",
+    "system_settings": "Системные настройки",
+    "expand_panel": "Развернуть панель",
+    "collapse_panel": "Свернуть панель",
+    "toggle_menu": "Переключить меню"
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Надежный игровой хостинг с максимальной производительностью и круглосуточной поддержкой. Ваш сервер — ваша свобода.",
+    "support_email": "support@arx.pro",
+    "support_label": "Поддержка:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Сотрудничество:",
+    "games": {
+      "minecraft": "Minecraft",
+      "rust": "Rust",
+      "cs": "CS"
+    },
+    "services": {
+      "title": "Услуги",
+      "vps": "VPS/VDS",
+      "dedicated": "Выделенные серверы",
+      "web_hosting": "Веб-хостинг"
+    },
+    "support": {
+      "title": "Поддержка",
+      "contact": "Связаться с нами",
+      "terms": "Пользовательское соглашение",
+      "rules": "Правила использования"
+    },
+    "social": {
+      "title": "Мы в соцсетях",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. Все права защищены.",
+    "disclamer": "Minecraft является товарным знаком Mojang AB. Мы не связаны с Mojang AB."
+  },
+  "components": {
+    "ui": {
+      "button": {
+        "send": "SEND"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Основная конфигурация",
+        "location": "Локация",
+        "os": "Операционная система",
+        "resources": "Ресурсы",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Диск",
+        "additional": "Дополнительные опции",
+        "backups": "Бэкапы",
+        "ip": "IPv4-адреса",
+        "network": "Канал",
+        "summary": "Сводка по заказу",
+        "total": "Итого в месяц:",
+        "order": "Перейти к заказу"
+      }
+    }
+  }
+}

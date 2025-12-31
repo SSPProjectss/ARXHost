@@ -1,0 +1,27 @@
+{
+  "components": {
+    "ui": {
+      "button": {
+        "send": "SEND"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Основная конфигурация",
+        "location": "Локация",
+        "os": "Операционная система",
+        "resources": "Ресурсы",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Диск",
+        "additional": "Дополнительные опции",
+        "backups": "Бэкапы",
+        "ip": "IPv4-адреса",
+        "network": "Канал",
+        "summary": "Сводка по заказу",
+        "total": "Итого в месяц:",
+        "order": "Перейти к заказу"
+      }
+    }
+  }
+}

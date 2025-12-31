@@ -1,0 +1,119 @@
+{
+  "web": {
+    "server": {
+      "name": "Name:",
+      "ip": "IP:",
+      "status": "Status:",
+      "status_active": "Aktiviert",
+      "actions": {
+        "start": "Starten",
+        "restart": "Neustarten",
+        "stop": "Stoppen"
+      },
+      "tabs": {
+        "console": "Konsole",
+        "files": "Dateien",
+        "web_server": "Webserver",
+        "config": "Konfiguration",
+        "access": "Zugriff",
+        "settings": "Einstellungen"
+      },
+      "resources": {
+        "title": "Ressourcennutzung",
+        "cpu": "CPU",
+        "memory": "Speicher",
+        "storage": "Speicher"
+      },
+      "settings": {
+        "title": "Allgemeine Einstellungen",
+        "description": "Grundparameter Ihres Servers.",
+        "name_label": "Servername",
+        "save": "Speichern"
+      }
+    }
+  },
+  "web_server": {
+    "tabs": {
+      "overview": "Übersicht",
+      "domains": "Domains",
+      "ssl": "SSL",
+      "config": "Konfig",
+      "security": "Sicherheit"
+    },
+    "overview": {
+      "domains": "Domains",
+      "ssl_certificates": "SSL-Zertifikate",
+      "databases": "Datenbanken",
+      "storage": "Speicher",
+      "quick_actions": "Schnellaktionen",
+      "add_domain": "Domain hinzufügen",
+      "ssl_certificate": "SSL-Zertifikat",
+      "new_database": "Neue Datenbank",
+      "edit_config": "Konfiguration bearbeiten",
+      "resource_usage": "Ressourcennutzung",
+      "cpu": "CPU",
+      "memory": "Speicher",
+      "disk": "Festplatte"
+    },
+    "domains": {
+      "title": "Domain-Verwaltung",
+      "description": "Hinzufügen und Verwalten von Domains für Ihren Webserver",
+      "placeholder": "example.com",
+      "add_domain": "Domain hinzufügen",
+      "ssl_status": "SSL-Status",
+      "secured": "Gesichert",
+      "not_secured": "Nicht gesichert",
+      "status": "Status",
+      "actions": "Aktionen",
+      "edit": "Bearbeiten",
+      "delete": "Löschen"
+    },
+    "ssl": {
+      "title": "SSL-Zertifikate",
+      "description": "Verwalten Sie SSL-Zertifikate für Ihre Domains",
+      "add_certificate": "Zertifikat hinzufügen",
+      "issuer": "Aussteller",
+      "expires": "Läuft ab",
+      "valid": "gültig",
+      "download": "Herunterladen"
+    },
+    "config": {
+      "title": "Konfigurationsdateien",
+      "description": "Bearbeiten und verwalten Sie Server-Konfigurationsdateien",
+      "import": "Importieren",
+      "new_file": "Neue Datei",
+      "path": "Pfad",
+      "size": "Größe",
+      "edit": "Bearbeiten",
+      "reset": "Zurücksetzen",
+      "save": "Konfiguration speichern"
+    },
+    "security": {
+      "firewall": {
+        "title": "Firewall-Einstellungen",
+        "description": "Kontrollieren Sie den Zugriff auf Ihren Webserver",
+        "firewall": "Firewall",
+        "ddos_protection": "DDoS-Schutz",
+        "rate_limiting": "Ratenbegrenzung",
+        "block_access": "Blockieren Sie nicht autorisierte Zugriffsversuche",
+        "protect_traffic": "Schützen Sie vor Verkehrsspitzen",
+        "limit_requests": "Begrenzen Sie Anfragen pro IP"
+      },
+      "authentication": {
+        "title": "Authentifizierung",
+        "description": "Sichern Sie Verzeichnisse mit Passwörtern",
+        "protected_directories": "Geschützte Verzeichnisse",
+        "no_directories": "Derzeit keine geschützten Verzeichnisse",
+        "add_protection": "Schutz hinzufügen"
+      },
+      "ip_access": {
+        "title": "IP-Zugriffskontrolle",
+        "description": "Erlauben oder verbieten Sie den Zugriff basierend auf IP-Adressen",
+        "allow": "Erlauben",
+        "deny": "Verbieten",
+        "add_rule": "Regel hinzufügen",
+        "action": "Aktion"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "header": {
+    "home": "Головна",
+    "vps": "VPS",
+    "docs": "Документація",
+    "support": "Підтримка",
+    "about": "Про нас",
+    "dashboard": "Панель",
+    "login": "Увійти",
+    "register": "Реєстрація",
+    "language": {
+      "switch": "Українська",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Надійний ігровий хостинг з максимальною продуктивністю та цілодобовою підтримкою. Ваш сервер - ваша свобода.",
+    "support_email": "support@arx.pro",
+    "support_label": "Підтримка:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Співпраця:",
+    "games": {
+      "title": "Ігри",
+      "minecraft": "Minecraft",
+      "rust": "Rust"
+    },
+    "services": {
+      "title": "Послуги",
+      "vps": "VPS/VDS",
+      "dedicated": "Виділені сервери",
+      "web_hosting": "Веб-хостинг"
+    },
+    "support": {
+      "title": "Підтримка",
+      "contact": "Зв'язатися з нами",
+      "terms": "Угода користувача",
+      "rules": "Правила використання"
+    },
+    "social": {
+      "title": "Ми у соцмережах",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. Всі права захищені.",
+    "copyright_v2": "Всі права захищені."
+  }
+}

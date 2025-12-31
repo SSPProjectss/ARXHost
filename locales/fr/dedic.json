@@ -1,0 +1,66 @@
+{
+  "dedic": {
+    "title": "Serveurs dédiés",
+    "subtitle": "PUISSANCE MAXIMALE",
+    "description": "Louez des serveurs physiques avec un contrôle total sur les ressources. Performance, sécurité et flexibilité maximales pour les projets les plus exigeants.",
+    "buttons": {
+      "select_server": "Sélectionner un serveur",
+      "full_root_access": "Accès root complet",
+      "guaranteed_resources": "Ressources garanties"
+    },
+    "metrics": {
+      "resources": {
+        "value": "100%",
+        "label": "Ressources garanties"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "Protection DDoS"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Support technique"
+      },
+      "deployment": {
+        "value": "1 heure",
+        "label": "Temps de déploiement"
+      }
+    },
+    "pricing": {
+      "title": "Configurations de serveurs",
+      "description": "Choisissez une configuration prête ou contactez-nous pour sélectionner une solution personnalisée.",
+      "plan": "Forfait",
+      "cpu": "Processeur",
+      "memory": "Mémoire",
+      "disk": "Disque",
+      "network": "Réseau",
+      "in_stock": "En stock",
+      "price": "Prix",
+      "order": "Commander",
+      "recommended": "Recommandé"
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Vous n'avez pas trouvé la réponse ? {link}, et nous vous aiderons.",
+      "contact_us": "Contactez-nous",
+      "questions": {
+        "what_is_dedicated": {
+          "question": "Qu'est-ce qu'un serveur dédié ?",
+          "answer": "Un serveur dédié est une machine physique dont toutes les ressources vous sont entièrement fournies. Contrairement au VPS, vous ne partagez pas le processeur, la mémoire ou le disque avec d'autres utilisateurs, ce qui garantit performance maximale et sécurité."
+        },
+        "use_cases": {
+          "question": "Pour quelles tâches un serveur dédié est-il adapté ?",
+          "answer": "Les serveurs dédiés sont idéaux pour les projets à forte charge : grands magasins en ligne, serveurs de jeu avec grand nombre de joueurs, bases de données, applications d'analyse de données et toutes les tâches nécessitant des performances garanties et une isolation complète."
+        },
+        "customization": {
+          "question": "Puis-je personnaliser la configuration ?",
+          "answer": "Oui, dans la plupart des cas, nous pouvons proposer des configurations personnalisées. Contactez notre service de support pour discuter de vos exigences en matière de processeur, mémoire vive, disques et connexions réseau."
+        },
+        "administration": {
+          "question": "Que comprend le service d'administration ?",
+          "answer": "L'administration de base comprend la configuration initiale du serveur, l'installation du système d'exploitation et du panneau de contrôle. L'administration complète est un service complet qui inclut la surveillance, les mises à jour régulières, les sauvegardes et la résolution des problèmes techniques. Vous pouvez choisir le niveau de support approprié lors de la commande."
+        }
+      }
+    }
+  }
+}

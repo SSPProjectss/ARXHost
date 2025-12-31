@@ -1,0 +1,27 @@
+{
+  "docs": {
+    "title": "Dokumentation",
+    "description": "Offizielle Dokumente und Anleitungen zur Nutzung des Dienstes",
+    "categories": {
+      "title": "Dokumentkategorien",
+      "description": "Finden Sie die benötigten Informationen in unseren nach Kategorien organisierten Dokumenten"
+    },
+    "no_docs": {
+      "title": "Dokumente nicht gefunden",
+      "description": "Derzeit sind keine Dokumente verfügbar."
+    },
+    "read": "Lesen",
+    "download": "Herunterladen",
+    "important": {
+      "title": "Wichtige Informationen",
+      "description1": "Alle auf dieser Seite präsentierten Dokumente sind offizielle rechtliche Dokumente des ARX Host-Dienstes. Bitte lesen Sie diese sorgfältig durch, bevor Sie unsere Dienste nutzen.",
+      "description2": "Dokumente können jederzeit geändert werden. Das Datum der letzten Aktualisierung ist in jedem Dokument angegeben. Die fortgesetzte Nutzung des Dienstes nach Änderungen bedeutet die Zustimmung zur neuen Version."
+    },
+    "help": {
+      "title": "Brauchen Sie Hilfe?",
+      "description": "Wenn Sie Fragen zu den Dokumenten haben oder zusätzliche Hilfe benötigen, wenden Sie sich an unser Support-Team",
+      "support": "Support kontaktieren",
+      "ticket": "Ticket eröffnen"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "games": {
+    "common": {
+      "features": {
+        "uptime": "Disponibilité",
+        "fast_startup": "Démarrage rapide",
+        "plugins": "Installation de plugins",
+        "ddos_protection": "Protection DDoS",
+        "support": "Support 24/7",
+        "refund": "Remboursement 3 jours",
+        "online": "Haut en ligne",
+        "low_ping": "Faible ping"
+      },
+      "buttons": {
+        "start_server": "Démarrer le serveur",
+        "view_plans": "Voir les forfaits",
+        "configure": "Configurer le serveur"
+      },
+      "pricing": {
+        "title": "Choisissez le forfait optimal",
+        "description": "Nous proposons des forfaits flexibles pour tous les besoins"
+      },
+      "custom_plan": {
+        "title": "Besoin d'un forfait personnalisé ?",
+        "description": "Configurez les paramètres du serveur selon vos exigences. Notre configurateur vous aidera à créer la solution optimale pour votre projet de toute complexité.",
+        "infrastructure": {
+          "title": "Matériel et infrastructure",
+          "cpu": "Ryzen 9 7950X @ 5.6GHz",
+          "disk": "NVMe SSD 3000MB/s+",
+          "network": "1–10 Gbps uplink",
+          "ddos": "Protection DDoS de niveau entreprise"
+        }
+      }
+    },
+    "minecraft": {
+      "title": "HÉBERGEMENT DE SERVEUR MINECRAFT",
+      "description": "Hébergement de serveurs Minecraft fiable avec démarrage instantané et protection DDoS",
+      "features": {
+        "uptime": "99,8% de disponibilité",
+        "fast_startup": "Démarrage rapide",
+        "plugins": "Installation de plugins",
+        "ddos_protection": "Protection DDoS",
+        "support": "Support 24/7",
+        "refund": "Remboursement 3 jours"
+      },
+      "buttons": {
+        "start_server": "Démarrer le serveur",
+        "view_plans": "Voir les forfaits"
+      },
+      "pricing": {
+        "title": "Choisissez le forfait optimal",
+        "description": "Nous proposons des forfaits flexibles pour tous les besoins",
+        "small": {
+          "name": "Petit",
+          "description": "Pour les amis"
+        },
+        "medium": {
+          "name": "Moyen",
+          "description": "Pour mini-communauté"
+        },
+        "large": {
+          "name": "Grand",
+          "description": "Optimum pour grande communauté"
+        },
+        "custom": {
+          "title": "Besoin d'un forfait personnalisé ?",
+          "description": "Configurez les paramètres du serveur selon vos exigences. Notre configurateur vous aidera à créer la solution optimale pour votre projet de toute complexité.",
+          "button": "Configurer le serveur",
+          "infrastructure": {
+            "title": "Matériel et infrastructure",
+            "cpu": "Ryzen 9 7950X @ 5.6GHz",
+            "disk": "NVMe SSD 3000MB/s+",
+            "network": "1–10 Gbps uplink",
+            "ddos": "Protection DDoS de niveau entreprise"
+          }
+        }
+      },
+      "plan_features": {
+        "small": [
+          "Processeur 1 vCPU",
+          "Mémoire 10 Go",
+          "Disque 100 Go",
+          "1 Port",
+          "0 BDD",
+          "1 Sauvegarde",
+          "Protection contre les attaques DDoS",
+          "Support technique 24/7"
+        ],
+        "medium": [
+          "Processeur 2 vCPU",
+          "Mémoire 20 Go",
+          "Disque 200 Go",
+          "2 Ports",
+          "1 BDD",
+          "1 Sauvegarde",
+          "Protection contre les attaques DDoS",
+          "Support technique 24/7"
+        ],
+        "large": [
+          "Processeur 3 vCPU",
+          "Mémoire 30 Go",
+          "Disque 300 Go",
+          "3 Ports",
+          "2 BDD",
+          "1 Sauvegarde",
+          "Protection contre les attaques DDoS",
+          "Support technique 24/7"
+        ]
+      }
+    },
+    "rust": {
+      "title": "HÉBERGEMENT DE SERVEUR RUST",
+      "description": "Serveurs puissants pour Rust avec en ligne garanti et support de plugins.",
+      "features": {
+        "online": "Haut en ligne",
+        "fast_startup": "Démarrage rapide",
+        "plugins": "Support uMod/Oxide",
+        "ddos_protection": "Protection DDoS",
+        "support": "Support 24/7",
+        "low_ping": "Faible ping"
+      },
+      "buttons": {
+        "start_server": "Démarrer le serveur",
+        "view_plans": "Voir les forfaits"
+      },
+      "pricing": {
+        "title": "Choisissez le forfait optimal",
+        "description": "Nous proposons des forfaits flexibles pour tous les besoins",
+        "popular": "POPULAIRE"
+      }
+    }
+  }
+}

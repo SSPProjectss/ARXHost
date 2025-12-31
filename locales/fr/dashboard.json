@@ -1,0 +1,209 @@
+{
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Bonne nuit",
+        "morning": "Bonjour",
+        "day": "Bon après-midi",
+        "evening": "Bonsoir"
+      }
+    },
+    "stats": {
+      "balance": "Solde",
+      "balance_description": "Disponible pour paiement",
+      "active_projects": "Projets actifs",
+      "active_projects_description": "Total des projets",
+      "open_tickets": "Tickets ouverts",
+      "open_tickets_description": "Demandes de support"
+    },
+    "servers": {
+      "title": "Mes serveurs",
+      "description": "Gérer vos serveurs",
+      "search_placeholder": "Rechercher des serveurs...",
+      "order": "Trier",
+      "order_prompt": "Glisser pour changer l'ordre",
+      "no_servers": "Aucun serveur",
+      "no_servers_description": "Ajoutez un serveur pour commencer",
+      "no_servers_found": "Aucun serveur trouvé",
+      "no_servers_found_description": "Aucun serveur trouvé pour la requête \"{query}\"",
+      "order_servers": "Commander un serveur"
+    },
+    "projects": {
+      "title": "Projets actifs",
+      "description": "Aperçu de vos projets actuels",
+      "no_projects": "Vous n'avez pas encore de projets",
+      "no_projects_description": "Créez votre premier projet pour commencer.",
+      "create": "Créer un projet",
+      "create_title": "Créer un nouveau projet",
+      "create_description": "Entrez un nom pour le nouveau projet. Cliquez sur créer quand vous avez terminé.",
+      "create_placeholder": "Mon nouveau projet",
+      "create_button": "Créer",
+      "show_all": "Afficher tous les projets"
+    },
+    "server": {
+      "name": "Nom :",
+      "ip": "IP :",
+      "status": "Statut :",
+      "status_active": "Activé",
+      "actions": {
+        "start": "Démarrer",
+        "restart": "Redémarrer",
+        "stop": "Arrêter"
+      },
+      "tabs": {
+        "console": "Console",
+        "files": "Fichiers",
+        "players": "Joueurs",
+        "databases": "Bases de données",
+        "schedules": "Planificateur",
+        "plugins": "Plugins",
+        "mods": "Mods",
+        "versions": "Versions",
+        "worlds": "Mondes",
+        "backups": "Sauvegardes",
+        "firewall": "Pare-feu",
+        "wiper": "Wiper",
+        "config": "Configuration",
+        "access": "Accès",
+        "settings": "Paramètres"
+      },
+      "resources": {
+        "title": "Utilisation des ressources",
+        "cpu": "CPU",
+        "memory": "Mémoire",
+        "storage": "Stockage"
+      },
+      "settings": {
+        "title": "Paramètres généraux",
+        "description": "Paramètres de base de votre serveur.",
+        "name_label": "Nom du serveur",
+        "save": "Sauvegarder"
+      },
+      "access": {
+        "title": "Accès au serveur",
+        "not_linked": "Ce serveur n'est pas lié à un projet.",
+        "not_linked_description": "Liez-le à un projet pour gérer l'accès des membres.",
+        "to_projects": "Vers les projets",
+        "manage_access": "Gérer l'accès",
+        "manage_access_description": "Configurez les droits d'accès pour les membres du projet \"{project}\" à ce serveur.",
+        "member": "Membre",
+        "permissions": {
+          "power": "Gestion de l'alimentation",
+          "console": "Accès à la console",
+          "files": "Gestion des fichiers",
+          "backups": "Gestion des sauvegardes",
+          "settings": "Paramètres du serveur"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Profil",
+        "description": "Paramètres de base de votre compte.",
+        "username": "Nom d'utilisateur",
+        "email": "Email",
+        "language": "Langue",
+        "avatar": "Avatar",
+        "regenerate_avatar": "Régénérer",
+        "currency": "Devise",
+        "password": "Mot de passe",
+        "regenerate_password": "Générer nouveau",
+        "save": "Sauvegarder les modifications",
+        "saved": "Modifications sauvegardées avec succès !"
+      },
+      "balance": {
+        "title": "Solde",
+        "description": "Gérez votre solde et choisissez une méthode de rechargement.",
+        "current_balance": "Solde actuel",
+        "payment_method": "Méthode de rechargement",
+        "payment_methods": {
+          "stripe": "Stripe",
+          "robokassa": "Robokassa",
+          "cryptomus": "Heleket (Cryptomus)",
+          "morune": "morune"
+        },
+        "payment_recommendations": {
+          "stripe": "Cartes, Apple/Google Pay",
+          "robokassa": "Cartes russes, portefeuilles électroniques",
+          "cryptomus": "Cryptomonnaies (BTC, ETH, USDT)",
+          "morune": "Virements bancaires"
+        },
+        "amount": "Montant du rechargement",
+        "amount_placeholder": "0,00",
+        "quick_add": "+ {amount}",
+        "top_up": "Recharger le solde",
+        "processing": "Traitement...",
+        "success": "Solde rechargé avec succès de {amount} !"
+      },
+      "referral": {
+        "title": "Programme de parrainage",
+        "description": "Invitez des amis et recevez des bonus",
+        "link": "Votre lien de parrainage",
+        "code": "Votre code :",
+        "referrer": "Vous avez été invité par",
+        "unlink": "Dissocier",
+        "no_referrer": "Vous êtes venu sans invitation, mais vous pouvez spécifier un code de parrainage.",
+        "apply_referrer": "Appliquer",
+        "referred": "Invités par vous ({count})",
+        "no_referred": "Vous n'avez encore invité personne"
+      },
+      "notifications": {
+        "title": "Paramètres de notifications",
+        "description": "Choisissez quelles notifications et où vous souhaitez les recevoir.",
+        "security": "Sécurité",
+        "security_login": "Nouvelles connexions",
+        "security_login_description": "Alertes de connexion depuis un nouvel appareil.",
+        "security_otp": "Codes de connexion",
+        "security_otp_description": "Codes à usage unique pour la connexion et l'inscription.",
+        "security_topup": "Rechargement du solde",
+        "security_topup_description": "Notifications de rechargement de solde réussi.",
+        "support": "Support",
+        "support_messages": "Réponses aux tickets",
+        "support_messages_description": "Notifications des réponses du service support.",
+        "news": "Actualités et mises à jour",
+        "news_updates": "Actualités de la plateforme",
+        "news_updates_description": "Informations sur les nouvelles fonctionnalités et mises à jour.",
+        "retention": "Stockage des notifications sur le site",
+        "retention_auto": "Suppression automatique",
+        "retention_auto_description": "Supprimer les notifications lues du site après la période spécifiée.",
+        "retention_periods": {
+          "1w": "1 semaine",
+          "1m": "1 mois",
+          "6m": "6 mois",
+          "never": "Jamais"
+        },
+        "retention_exceptions": "Exceptions",
+        "retention_exceptions_description": "Les types de notifications marqués ne seront pas automatiquement supprimés, même après lecture.",
+        "save": "Sauvegarder les paramètres"
+      },
+      "sessions": {
+        "title": "Sessions actives",
+        "description": "Appareils sur lesquels vous êtes connecté à votre compte.",
+        "terminate": "Terminer toutes les sessions",
+        "terminate_confirm": "Terminer toutes les sessions ?",
+        "terminate_confirm_description": "Êtes-vous sûr de vouloir terminer toutes les sessions ? L'utilisateur sera déconnecté de tous les appareils. Vous devrez vous reconnecter sur ceux-ci.",
+        "device": "Appareil",
+        "browser": "Navigateur",
+        "location": "Emplacement",
+        "ip": "Adresse IP",
+        "last_active": "Dernière activité",
+        "status": "Statut",
+        "current": "Actuel",
+        "active": "Actif",
+        "logout": "Se déconnecter",
+        "logout_confirm": "Terminer la session ?",
+        "logout_confirm_description": "Êtes-vous sûr de vouloir terminer cette session ? L'utilisateur sera déconnecté de cet appareil.",
+        "no_sessions": "Aucune session active",
+        "unknown": "Inconnu"
+      },
+      "promo": {
+        "title": "Activation de code promotionnel",
+        "description": "Entrez votre code promotionnel pour recevoir des bonus.",
+        "placeholder": "Entrez le code promotionnel",
+        "activate": "Activer",
+        "activated": "Code promotionnel activé avec succès !",
+        "invalid": "Code promotionnel invalide"
+      }
+    }
+  }
+}

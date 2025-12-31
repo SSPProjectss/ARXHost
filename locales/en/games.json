@@ -1,0 +1,133 @@
+{
+  "games": {
+    "common": {
+      "features": {
+        "uptime": "Uptime",
+        "fast_startup": "Fast Startup",
+        "plugins": "Plugin Installation",
+        "ddos_protection": "DDoS Protection",
+        "support": "24/7 Support",
+        "refund": "3-Day Refund",
+        "online": "High Online",
+        "low_ping": "Low Ping"
+      },
+      "buttons": {
+        "start_server": "Start Server",
+        "view_plans": "View Plans",
+        "configure": "Configure Server"
+      },
+      "pricing": {
+        "title": "Choose the Optimal Plan",
+        "description": "We offer flexible plans for any needs"
+      },
+      "custom_plan": {
+        "title": "Need a Custom Plan?",
+        "description": "Configure server parameters to meet your requirements. Our configurator will help create the optimal solution for your project of any complexity.",
+        "infrastructure": {
+          "title": "Hardware and Infrastructure",
+          "cpu": "Ryzen 9 7950X @ 5.6GHz",
+          "disk": "NVMe SSD 3000MB/s+",
+          "network": "1–10 Gbps uplink",
+          "ddos": "Enterprise-level DDoS protection"
+        }
+      }
+    },
+    "minecraft": {
+      "title": "MINECRAFT SERVER HOSTING",
+      "description": "Reliable Minecraft server hosting with instant startup and DDoS protection",
+      "features": {
+        "uptime": "99.8% Uptime",
+        "fast_startup": "Fast Startup",
+        "plugins": "Plugin Installation",
+        "ddos_protection": "DDoS Protection",
+        "support": "24/7 Support",
+        "refund": "3-Day Refund"
+      },
+      "buttons": {
+        "start_server": "Start Server",
+        "view_plans": "View Plans"
+      },
+      "pricing": {
+        "title": "Choose the Optimal Plan",
+        "description": "We offer flexible plans for any needs",
+        "small": {
+          "name": "Small",
+          "description": "For friends"
+        },
+        "medium": {
+          "name": "Medium",
+          "description": "For mini-community"
+        },
+        "large": {
+          "name": "Large",
+          "description": "Optimum for large community"
+        },
+        "custom": {
+          "title": "Need a Custom Plan?",
+          "description": "Configure server parameters to meet your requirements. Our configurator will help create the optimal solution for your project of any complexity.",
+          "button": "Configure Server",
+          "infrastructure": {
+            "title": "Hardware and Infrastructure",
+            "cpu": "Ryzen 9 7950X @ 5.6GHz",
+            "disk": "NVMe SSD 3000MB/s+",
+            "network": "1–10 Gbps uplink",
+            "ddos": "Enterprise-level DDoS protection"
+          }
+        }
+      },
+      "plan_features": {
+        "small": [
+          "1 vCPU Processor",
+          "10GB Memory",
+          "100GB Disk",
+          "1 Port",
+          "0 DB",
+          "1 Backup",
+          "DDoS Attack Protection",
+          "24/7 Technical Support"
+        ],
+        "medium": [
+          "2 vCPU Processor",
+          "20GB Memory",
+          "200GB Disk",
+          "2 Ports",
+          "1 DB",
+          "1 Backup",
+          "DDoS Attack Protection",
+          "24/7 Technical Support"
+        ],
+        "large": [
+          "3 vCPU Processor",
+          "30GB Memory",
+          "300GB Disk",
+          "3 Ports",
+          "2 DB",
+          "1 Backup",
+          "DDoS Attack Protection",
+          "24/7 Technical Support"
+        ]
+      }
+    },
+    "rust": {
+      "title": "RUST SERVER HOSTING",
+      "description": "Powerful servers for Rust with guaranteed online and plugin support.",
+      "features": {
+        "online": "High Online",
+        "fast_startup": "Fast Startup",
+        "plugins": "uMod/Oxide Support",
+        "ddos_protection": "DDoS Protection",
+        "support": "24/7 Support",
+        "low_ping": "Low Ping"
+      },
+      "buttons": {
+        "start_server": "Start Server",
+        "view_plans": "View Plans"
+      },
+      "pricing": {
+        "title": "Choose the Optimal Plan",
+        "description": "We offer flexible plans for any needs",
+        "popular": "POPULAR"
+      }
+    }
+  }
+}

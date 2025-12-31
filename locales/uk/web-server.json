@@ -1,0 +1,119 @@
+{
+  "web": {
+    "server": {
+      "name": "Назва:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Увімкнено",
+      "actions": {
+        "start": "Запустити",
+        "restart": "Перезапустити",
+        "stop": "Зупинити"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файли",
+        "web_server": "Веб-сервер",
+        "config": "Конфігурація",
+        "access": "Доступ",
+        "settings": "Налаштування"
+      },
+      "resources": {
+        "title": "Використання ресурсів",
+        "cpu": "CPU",
+        "memory": "Пам'ять",
+        "storage": "Сховище"
+      },
+      "settings": {
+        "title": "Загальні налаштування",
+        "description": "Основні параметри вашого сервера.",
+        "name_label": "Назва сервера",
+        "save": "Зберегти"
+      }
+    }
+  },
+  "web_server": {
+    "tabs": {
+      "overview": "Огляд",
+      "domains": "Домени",
+      "ssl": "SSL",
+      "config": "Конфіг",
+      "security": "Безпека"
+    },
+    "overview": {
+      "domains": "Домени",
+      "ssl_certificates": "SSL-сертифікати",
+      "databases": "Бази даних",
+      "storage": "Сховище",
+      "quick_actions": "Швидкі дії",
+      "add_domain": "Додати домен",
+      "ssl_certificate": "SSL-сертифікат",
+      "new_database": "Нова база даних",
+      "edit_config": "Редагувати конфіг",
+      "resource_usage": "Використання ресурсів",
+      "cpu": "CPU",
+      "memory": "Пам'ять",
+      "disk": "Диск"
+    },
+    "domains": {
+      "title": "Керування доменами",
+      "description": "Додавання та керування доменами для вашого веб-сервера",
+      "placeholder": "example.com",
+      "add_domain": "Додати домен",
+      "ssl_status": "Статус SSL",
+      "secured": "Захищено",
+      "not_secured": "Не захищено",
+      "status": "Статус",
+      "actions": "Дії",
+      "edit": "Редагувати",
+      "delete": "Видалити"
+    },
+    "ssl": {
+      "title": "SSL-сертифікати",
+      "description": "Керуйте SSL-сертифікатами для ваших доменів",
+      "add_certificate": "Додати сертифікат",
+      "issuer": "Видавець",
+      "expires": "Закінчується",
+      "valid": "дійсний",
+      "download": "Завантажити"
+    },
+    "config": {
+      "title": "Файли конфігурації",
+      "description": "Редагуйте та керуйте файлами конфігурації сервера",
+      "import": "Імпортувати",
+      "new_file": "Новий файл",
+      "path": "Шлях",
+      "size": "Розмір",
+      "edit": "Редагувати",
+      "reset": "Скинути",
+      "save": "Зберегти конфігурацію"
+    },
+    "security": {
+      "firewall": {
+        "title": "Налаштування фаєрволу",
+        "description": "Контролюйте доступ до вашого веб-сервера",
+        "firewall": "Фаєрвол",
+        "ddos_protection": "Захист від DDoS",
+        "rate_limiting": "Обмеження швидкості",
+        "block_access": "Блокувати спроби несанкціонованого доступу",
+        "protect_traffic": "Захищати від піків трафіку",
+        "limit_requests": "Обмежити запити на IP"
+      },
+      "authentication": {
+        "title": "Аутентифікація",
+        "description": "Захистіть каталоги паролями",
+        "protected_directories": "Захищені каталоги",
+        "no_directories": "Наразі немає захищених каталогів",
+        "add_protection": "Додати захист"
+      },
+      "ip_access": {
+        "title": "Контроль доступу по IP",
+        "description": "Дозволяти або забороняти доступ на основі IP-адрес",
+        "allow": "Дозволити",
+        "deny": "Заборонити",
+        "add_rule": "Додати правило",
+        "action": "Дія"
+      }
+    }
+  }
+}

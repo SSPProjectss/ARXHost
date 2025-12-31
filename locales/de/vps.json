@@ -1,0 +1,89 @@
+{
+  "vps": {
+    "title": "Virtuelle Server",
+    "subtitle": "NEUE GENERATION",
+    "description": "Hochleistungs-VPS mit NVMe SSD-Laufwerken, DDoS-Schutz und 99,9% Verfügbarkeitsgarantie. Die ideale Lösung für Unternehmen und Entwicklung.",
+    "buttons": {
+      "select_plan": "Tarif auswählen",
+      "available_os": "Verfügbare Betriebssysteme"
+    },
+    "features": {
+      "instant": "Sofortige Bereitstellung",
+      "no_hidden": "Keine versteckten Zahlungen"
+    },
+    "metrics": {
+      "uptime": {
+        "value": "99,9%",
+        "label": "Verfügbarkeitsgarantie"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "DDoS-Schutz"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Technischer Support"
+      },
+      "deployment": {
+        "value": "5 Min",
+        "label": "Bereitstellungszeit"
+      }
+    },
+    "tabs": {
+      "plans": "Fertige Lösungen",
+      "custom": "Individueller Tarif"
+    },
+    "locations": {
+      "finland": {
+        "country": "Finnland",
+        "city": "Helsinki"
+      },
+      "germany": {
+        "country": "Deutschland",
+        "city": "Frankfurt"
+      },
+      "russia": {
+        "country": "Russland",
+        "city": "Moskau"
+      }
+    },
+    "pricing": {
+      "title": "Wählen Sie Ihren Tarif",
+      "description": "Flexible und transparente Tarife für alle Anwendungen, von kleinen Projekten bis hin zu hochbelasteten Anwendungen.",
+      "custom_title": "Erstellen Sie Ihren Server",
+      "custom_description": "Verwenden Sie den Rechner, um die perfekte Konfiguration für Ihre Aufgaben auszuwählen.",
+      "table": {
+        "plan": "Tarif",
+        "cpu": "Prozessor",
+        "memory": "Speicher",
+        "disk": "Festplatte",
+        "network": "Netzwerk",
+        "price": "Preis",
+        "order": "Bestellen",
+        "recommended": "Empfohlen"
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Antwort nicht gefunden?",
+      "questions": {
+        "what_is_vps": {
+          "question": "Was ist VPS/VDS Hosting?",
+          "answer": "VPS (Virtual Private Server) oder VDS (Virtual Dedicated Server) ist ein Service, der dem Benutzer einen virtuellen dedizierten Server zur Verfügung stellt. Sie erhalten die vollständige Kontrolle über das System (Root-Zugriff) und können beliebige Software installieren."
+        },
+        "difference": {
+          "question": "Was unterscheidet Ihr VPS-Hosting von anderen?",
+          "answer": "Wir verwenden nur moderne Hardware mit schnellen NVMe SSD-Laufwerken, bieten unbegrenzten Datenverkehr und zuverlässigen DDoS-Schutz bei allen Tarifen. Unser Ziel ist es, maximale Leistung zu einem erschwinglichen Preis zu bieten."
+        },
+        "change_plan": {
+          "question": "Kann ich den Tarifplan später ändern?",
+          "answer": "Ja, Sie können die Serverressourcen jederzeit einfach skalieren. Ein Upgrade auf einen leistungsstarken Tarif erfolgt schnell mit minimaler Ausfallzeit."
+        },
+        "operating_system": {
+          "question": "Welches Betriebssystem kann ich installieren?",
+          "answer": "Wir bieten beliebte Linux-Distributionen wie Ubuntu, Debian und CentOS an. Sie können das gewünschte Betriebssystem bei der Serverbestellung auswählen."
+        }
+      }
+    }
+  }
+}

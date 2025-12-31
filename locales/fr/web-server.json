@@ -1,0 +1,119 @@
+{
+  "web": {
+    "server": {
+      "name": "Nom :",
+      "ip": "IP :",
+      "status": "Statut :",
+      "status_active": "Activé",
+      "actions": {
+        "start": "Démarrer",
+        "restart": "Redémarrer",
+        "stop": "Arrêter"
+      },
+      "tabs": {
+        "console": "Console",
+        "files": "Fichiers",
+        "web_server": "Serveur Web",
+        "config": "Configuration",
+        "access": "Accès",
+        "settings": "Paramètres"
+      },
+      "resources": {
+        "title": "Utilisation des ressources",
+        "cpu": "CPU",
+        "memory": "Mémoire",
+        "storage": "Stockage"
+      },
+      "settings": {
+        "title": "Paramètres généraux",
+        "description": "Paramètres de base de votre serveur.",
+        "name_label": "Nom du serveur",
+        "save": "Sauvegarder"
+      }
+    }
+  },
+  "web_server": {
+    "tabs": {
+      "overview": "Aperçu",
+      "domains": "Domaines",
+      "ssl": "SSL",
+      "config": "Config",
+      "security": "Sécurité"
+    },
+    "overview": {
+      "domains": "Domaines",
+      "ssl_certificates": "Certificats SSL",
+      "databases": "Bases de données",
+      "storage": "Stockage",
+      "quick_actions": "Actions rapides",
+      "add_domain": "Ajouter un domaine",
+      "ssl_certificate": "Certificat SSL",
+      "new_database": "Nouvelle base de données",
+      "edit_config": "Modifier la config",
+      "resource_usage": "Utilisation des ressources",
+      "cpu": "CPU",
+      "memory": "Mémoire",
+      "disk": "Disque"
+    },
+    "domains": {
+      "title": "Gestion des domaines",
+      "description": "Ajouter et gérer les domaines pour votre serveur web",
+      "placeholder": "example.com",
+      "add_domain": "Ajouter un domaine",
+      "ssl_status": "Statut SSL",
+      "secured": "Sécurisé",
+      "not_secured": "Non sécurisé",
+      "status": "Statut",
+      "actions": "Actions",
+      "edit": "Modifier",
+      "delete": "Supprimer"
+    },
+    "ssl": {
+      "title": "Certificats SSL",
+      "description": "Gérer les certificats SSL pour vos domaines",
+      "add_certificate": "Ajouter un certificat",
+      "issuer": "Émetteur",
+      "expires": "Expire",
+      "valid": "valide",
+      "download": "Télécharger"
+    },
+    "config": {
+      "title": "Fichiers de configuration",
+      "description": "Modifier et gérer les fichiers de configuration du serveur",
+      "import": "Importer",
+      "new_file": "Nouveau fichier",
+      "path": "Chemin",
+      "size": "Taille",
+      "edit": "Modifier",
+      "reset": "Réinitialiser",
+      "save": "Sauvegarder la configuration"
+    },
+    "security": {
+      "firewall": {
+        "title": "Paramètres du pare-feu",
+        "description": "Contrôler l'accès à votre serveur web",
+        "firewall": "Pare-feu",
+        "ddos_protection": "Protection DDoS",
+        "rate_limiting": "Limitation de débit",
+        "block_access": "Bloquer les tentatives d'accès non autorisées",
+        "protect_traffic": "Protéger contre les pics de trafic",
+        "limit_requests": "Limiter les requêtes par IP"
+      },
+      "authentication": {
+        "title": "Authentification",
+        "description": "Sécuriser les répertoires avec des mots de passe",
+        "protected_directories": "Répertoires protégés",
+        "no_directories": "Aucun répertoire actuellement protégé",
+        "add_protection": "Ajouter une protection"
+      },
+      "ip_access": {
+        "title": "Contrôle d'accès IP",
+        "description": "Autoriser ou refuser l'accès basé sur les adresses IP",
+        "allow": "Autoriser",
+        "deny": "Refuser",
+        "add_rule": "Ajouter une règle",
+        "action": "Action"
+      }
+    }
+  }
+}

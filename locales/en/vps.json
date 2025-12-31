@@ -1,0 +1,89 @@
+{
+  "vps": {
+    "title": "Virtual Servers",
+    "subtitle": "NEXT GENERATION",
+    "description": "High-performance VPS with NVMe SSD drives, DDoS attack protection, and 99.9% uptime guarantee. The ideal solution for business and development.",
+    "buttons": {
+      "select_plan": "Select Plan",
+      "available_os": "Available OS"
+    },
+    "features": {
+      "instant": "Instant Deployment",
+      "no_hidden": "No Hidden Payments"
+    },
+    "metrics": {
+      "uptime": {
+        "value": "99.9%",
+        "label": "Uptime Guarantee"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "DDoS Protection"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Technical Support"
+      },
+      "deployment": {
+        "value": "5 min",
+        "label": "Deployment Time"
+      }
+    },
+    "tabs": {
+      "plans": "Ready Solutions",
+      "custom": "Custom Plan"
+    },
+    "locations": {
+      "finland": {
+        "country": "Finland",
+        "city": "Helsinki"
+      },
+      "germany": {
+        "country": "Germany",
+        "city": "Frankfurt"
+      },
+      "russia": {
+        "country": "Russia",
+        "city": "Moscow"
+      }
+    },
+    "pricing": {
+      "title": "Choose Your Plan",
+      "description": "Flexible and transparent plans for any tasks, from small projects to high-load applications.",
+      "custom_title": "Build Your Server",
+      "custom_description": "Use the calculator to select the perfect configuration for your tasks.",
+      "table": {
+        "plan": "Plan",
+        "cpu": "CPU",
+        "memory": "Memory",
+        "disk": "Disk",
+        "network": "Network",
+        "price": "Price",
+        "order": "Order",
+        "recommended": "Recommended"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Didn't find the answer?",
+      "questions": {
+        "what_is_vps": {
+          "question": "What is VPS/VDS hosting?",
+          "answer": "VPS (Virtual Private Server) or VDS (Virtual Dedicated Server) is a service that provides users with a virtual dedicated server. You get full control over the system (root access) and can install any software."
+        },
+        "difference": {
+          "question": "What makes your VPS hosting different from others?",
+          "answer": "We use only modern hardware with fast NVMe SSD drives, provide unlimited traffic, and offer reliable DDoS protection on all plans. Our goal is to offer maximum performance at an affordable price."
+        },
+        "change_plan": {
+          "question": "Can I change the plan in the future?",
+          "answer": "Yes, you can easily scale your server resources at any time. Upgrading to a more powerful plan is quick with minimal downtime."
+        },
+        "operating_system": {
+          "question": "What operating system can I install?",
+          "answer": "We offer popular Linux distributions such as Ubuntu, Debian, and CentOS. You can choose the desired OS when ordering the server."
+        }
+      }
+    }
+  }
+}

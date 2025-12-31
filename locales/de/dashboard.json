@@ -1,0 +1,203 @@
+{
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Gute Nacht",
+        "morning": "Guten Morgen",
+        "day": "Guten Tag",
+        "evening": "Guten Abend"
+      }
+    },
+    "stats": {
+      "balance": "Guthaben",
+      "balance_description": "Verfügbar zur Zahlung",
+      "active_projects": "Aktive Projekte",
+      "active_projects_description": "Gesamtprojekte",
+      "open_tickets": "Offene Tickets",
+      "open_tickets_description": "Supportanfragen"
+    },
+    "servers": {
+      "title": "Meine Server",
+      "description": "Verwalten Sie Ihre Server",
+      "search_placeholder": "Server suchen...",
+      "order": "Sortieren",
+      "order_prompt": "Ziehen, um die Reihenfolge zu ändern",
+      "no_servers": "Keine Server",
+      "no_servers_description": "Fügen Sie einen Server hinzu, um zu beginnen",
+      "no_servers_found": "Keine Server gefunden",
+      "no_servers_found_description": "Keine Server für die Abfrage \"{query}\" gefunden",
+      "order_servers": "Server bestellen"
+    },
+    "projects": {
+      "title": "Aktive Projekte",
+      "description": "Übersicht Ihrer aktuellen Projekte",
+      "no_projects": "Sie haben noch keine Projekte",
+      "no_projects_description": "Erstellen Sie Ihr erstes Projekt, um zu beginnen.",
+      "create": "Projekt erstellen",
+      "create_title": "Neues Projekt erstellen",
+      "create_description": "Geben Sie einen Namen für das neue Projekt ein. Klicken Sie auf Erstellen, wenn Sie fertig sind.",
+      "create_placeholder": "Mein neues Projekt",
+      "create_button": "Erstellen",
+      "show_all": "Alle Projekte anzeigen"
+    },
+    "server": {
+      "name": "Name:",
+      "ip": "IP:",
+      "status": "Status:",
+      "status_active": "Aktiviert",
+      "actions": {
+        "start": "Starten",
+        "restart": "Neustarten",
+        "stop": "Stoppen"
+      },
+      "tabs": {
+        "console": "Konsole",
+        "files": "Dateien",
+        "players": "Spieler",
+        "databases": "Datenbanken",
+        "schedules": "Planer",
+        "plugins": "Plugins",
+        "mods": "Mods",
+        "versions": "Versionen",
+        "worlds": "Welten",
+        "backups": "Backups",
+        "firewall": "Firewall",
+        "wiper": "Wiper",
+        "config": "Konfiguration",
+        "access": "Zugriff",
+        "settings": "Einstellungen"
+      },
+      "resources": {
+        "title": "Ressourcennutzung",
+        "cpu": "CPU",
+        "memory": "Speicher",
+        "storage": "Speicher"
+      },
+      "settings": {
+        "title": "Allgemeine Einstellungen",
+        "description": "Grundparameter Ihres Servers.",
+        "name_label": "Servername",
+        "save": "Speichern"
+      },
+      "access": {
+        "title": "Serverzugriff",
+        "not_linked": "Dieser Server ist nicht mit einem Projekt verknüpft.",
+        "not_linked_description": "Verknüpfen Sie ihn mit einem Projekt, um den Mitgliederzugriff zu verwalten.",
+        "to_projects": "Zu Projekten",
+        "manage_access": "Zugriff verwalten",
+        "manage_access_description": "Konfigurieren Sie Zugriffsrechte für Mitglieder des Projekts \"{project}\" auf diesen Server.",
+        "member": "Mitglied",
+        "permissions": {
+          "power": "Stromverwaltung",
+          "console": "Konsolenzugriff",
+          "files": "Dateiverwaltung",
+          "backups": "Backup-Verwaltung",
+          "settings": "Servereinstellungen"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Profil",
+        "description": "Grundeinstellungen Ihres Kontos.",
+        "username": "Benutzername",
+        "email": "E-Mail",
+        "language": "Sprache",
+        "avatar": "Avatar",
+        "regenerate_avatar": "Neu generieren",
+        "currency": "Währung",
+        "password": "Passwort",
+        "regenerate_password": "Neues generieren",
+        "save": "Änderungen speichern",
+        "saved": "Änderungen erfolgreich gespeichert!"
+      },
+      "balance": {
+        "title": "Guthaben",
+        "description": "Verwalten Sie Ihr Guthaben und wählen Sie eine Auflademethode.",
+        "current_balance": "Aktuelles Guthaben",
+        "payment_method": "Auflademethode",
+        "payment_methods": {
+          "robokassa": "Robokassa"
+        },
+        "payment_recommendations": {
+          "robokassa": "Russische Karten, E-Wallets"
+        },
+        "amount": "Aufladebetrag",
+        "amount_placeholder": "0,00",
+        "quick_add": "+ {amount}",
+        "top_up": "Guthaben aufladen",
+        "processing": "Verarbeitung...",
+        "success": "Guthaben erfolgreich aufgeladen um {amount}!"
+      },
+      "referral": {
+        "title": "Empfehlungsprogramm",
+        "description": "Laden Sie Freunde ein und erhalten Sie Boni",
+        "link": "Ihr Empfehlungslink",
+        "code": "Ihr Code:",
+        "referrer": "Sie wurden eingeladen von",
+        "unlink": "Trennen",
+        "no_referrer": "Sie kamen ohne Einladung, aber Sie können einen Empfehlungscode angeben.",
+        "apply_referrer": "Anwenden",
+        "referred": "Von Ihnen eingeladen ({count})",
+        "no_referred": "Sie haben noch niemanden eingeladen"
+      },
+      "notifications": {
+        "title": "Benachrichtigungseinstellungen",
+        "description": "Wählen Sie aus, welche Benachrichtigungen und wohin Sie sie erhalten möchten.",
+        "security": "Sicherheit",
+        "security_login": "Neue Anmeldungen",
+        "security_login_description": "Warnungen bei Anmeldung von einem neuen Gerät.",
+        "security_otp": "Anmeldecodes",
+        "security_otp_description": "Einmalcodes für Anmeldung und Registrierung.",
+        "security_topup": "Guthabenaufladung",
+        "security_topup_description": "Benachrichtigungen über erfolgreiche Guthabenaufladung.",
+        "support": "Support",
+        "support_messages": "Ticket-Antworten",
+        "support_messages_description": "Benachrichtigungen über Antworten des Supports.",
+        "news": "Neuigkeiten und Updates",
+        "news_updates": "Plattform-News",
+        "news_updates_description": "Informationen über neue Funktionen und Updates.",
+        "retention": "Website-Benachrichtigungsspeicherung",
+        "retention_auto": "Automatische Löschung",
+        "retention_auto_description": "Gelesene Website-Benachrichtigungen nach dem angegebenen Zeitraum löschen.",
+        "retention_periods": {
+          "1w": "1 Woche",
+          "1m": "1 Monat",
+          "6m": "6 Monate",
+          "never": "Nie"
+        },
+        "retention_exceptions": "Ausnahmen",
+        "retention_exceptions_description": "Markierte Benachrichtigungstypen werden nicht automatisch gelöscht, auch nach dem Lesen nicht.",
+        "save": "Einstellungen speichern"
+      },
+      "sessions": {
+        "title": "Aktive Sitzungen",
+        "description": "Geräte, auf denen Sie in Ihrem Konto angemeldet sind.",
+        "terminate": "Alle Sitzungen beenden",
+        "terminate_confirm": "Alle Sitzungen beenden?",
+        "terminate_confirm_description": "Sind Sie sicher, dass Sie alle Sitzungen beenden möchten? Der Benutzer wird von allen Geräten abgemeldet. Sie müssen sich erneut anmelden.",
+        "device": "Gerät",
+        "browser": "Browser",
+        "location": "Standort",
+        "ip": "IP-Adresse",
+        "last_active": "Letzte Aktivität",
+        "status": "Status",
+        "current": "Aktuell",
+        "active": "Aktiv",
+        "logout": "Abmelden",
+        "logout_confirm": "Sitzung beenden?",
+        "logout_confirm_description": "Sind Sie sicher, dass Sie diese Sitzung beenden möchten? Der Benutzer wird von diesem Gerät abgemeldet.",
+        "no_sessions": "Keine aktiven Sitzungen",
+        "unknown": "Unbekannt"
+      },
+      "promo": {
+        "title": "Aktivierung von Aktionscodes",
+        "description": "Geben Sie Ihren Aktionscode ein, um Boni zu erhalten.",
+        "placeholder": "Aktionscode eingeben",
+        "activate": "Aktivieren",
+        "activated": "Aktionscode erfolgreich aktiviert!",
+        "invalid": "Ungültiger Aktionscode"
+      }
+    }
+  }
+}

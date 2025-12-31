@@ -1,0 +1,15 @@
+{
+  "errors": {
+    "404": {
+      "title": "Página no encontrada",
+      "description": "Lamentablemente, no pudimos encontrar la página que estás buscando. Puede haber sido movida o eliminada.",
+      "button": "← Volver al inicio"
+    },
+    "500": {
+      "title": "Algo salió mal",
+      "description": "Lamentablemente, ocurrió un error inesperado en la aplicación. Intenta recargar la página.",
+      "retry": "Intentar de nuevo",
+      "home": "Volver al inicio"
+    }
+  }
+}

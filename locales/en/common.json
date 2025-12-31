@@ -1,0 +1,92 @@
+{
+  "contact_us": "Contact us",
+  "and_we_will_help": "and we will help you",
+  "header": {
+    "home": "Home",
+    "vps": "VPS",
+    "docs": "Documentation",
+    "support": "Support",
+    "about": "About Us",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register",
+    "toggle_menu": "Toggle menu",
+    "language": {
+      "switch": "English",
+      "russian": "Русский",
+      "english": "English",
+      "spanish": "Español",
+      "french": "Français",
+      "german": "Deutsch",
+      "ukrainian": "Українська"
+    }
+  },
+  "adminpanel": {
+    "users": "Users",
+    "servers": "Servers",
+    "tickets": "Tickets",
+    "statistics": "Statistics",
+    "web_settings": "Web Settings",
+    "system_settings": "System Settings",
+    "expand_panel": "Expand panel",
+    "collapse_panel": "Collapse panel",
+    "toggle_menu": "Toggle menu"
+  },
+  "footer": {
+    "title": "ARX",
+    "description": "Reliable game hosting with maximum performance and 24/7 support. Your server - your freedom.",
+    "support_email": "support@arx.pro",
+    "support_label": "Support:",
+    "cooperation_email": "contact@arx.pro",
+    "cooperation_label": "Cooperation:",
+    "games": {
+      "title": "Games",
+      "minecraft": "Minecraft",
+      "rust": "Rust"
+    },
+    "services": {
+      "title": "Services",
+      "vps": "VPS/VDS",
+      "dedicated": "Dedicated Servers",
+      "web_hosting": "Web Hosting"
+    },
+    "support": {
+      "title": "Support",
+      "contact": "Contact Us",
+      "terms": "Terms of Service",
+      "rules": "Usage Rules"
+    },
+    "social": {
+      "title": "Follow Us",
+      "telegram": "Telegram",
+      "discord": "Discord"
+    },
+    "copyright": "© 2025 ARX Host. All rights reserved.",
+    "disclamer": "Minecraft is a trademark of Mojang AB. We are not affiliated with Mojang AB."
+  },
+  "components": {
+    "ui": {
+      "button": {
+        "send": "SEND"
+      }
+    },
+    "vps": {
+      "configurator": {
+        "main_config": "Main Configuration",
+        "location": "Location",
+        "os": "Operating System",
+        "resources": "Resources",
+        "cpu": "CPU",
+        "ram": "RAM",
+        "disk": "Disk",
+        "additional": "Additional Options",
+        "backups": "Backups",
+        "ip": "IPv4 Addresses",
+        "network": "Network",
+        "summary": "Order Summary",
+        "total": "Total per month:",
+        "order": "Proceed to Order"
+      }
+    }
+  }
+}

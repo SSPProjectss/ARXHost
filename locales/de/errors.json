@@ -1,0 +1,15 @@
+{
+  "errors": {
+    "404": {
+      "title": "Seite nicht gefunden",
+      "description": "Leider konnten wir die gesuchte Seite nicht finden. Sie wurde möglicherweise verschoben oder gelöscht.",
+      "button": "← Zurück zur Startseite"
+    },
+    "500": {
+      "title": "Etwas ist schiefgelaufen",
+      "description": "Leider ist in der Anwendung ein unerwarteter Fehler aufgetreten. Versuchen Sie, die Seite neu zu laden.",
+      "retry": "Erneut versuchen",
+      "home": "Zurück zur Startseite"
+    }
+  }
+}

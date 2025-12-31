@@ -1,0 +1,9 @@
+{
+  "api": {
+    "endpoint": "API-Endpunkt",
+    "description": "Dieser API-Endpunkt ist nur für programmatische Anfragen bestimmt.",
+    "docs": "Wenn Sie ein Entwickler sind, lesen Sie die API-Dokumentation für weitere Informationen.",
+    "error_code": "Fehlercode 403",
+    "back_to_home": "Zurück zur Startseite"
+  }
+}

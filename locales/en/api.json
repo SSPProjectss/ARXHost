@@ -1,0 +1,9 @@
+{
+  "api": {
+    "endpoint": "API Endpoint",
+    "description": "This API endpoint is for programmatic requests only.",
+    "docs": "If you are a developer, check the API documentation for more information.",
+    "error_code": "Error code 403",
+    "back_to_home": "Back to home"
+  }
+}

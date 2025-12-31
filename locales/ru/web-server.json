@@ -1,0 +1,119 @@
+{
+  "web": {
+    "server": {
+      "name": "Имя:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Включен",
+      "actions": {
+        "start": "Запустить",
+        "restart": "Перезапустить",
+        "stop": "Остановить"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файлы",
+        "web_server": "Web Server",
+        "config": "Конфигурация",
+        "access": "Доступ",
+        "settings": "Настройки"
+      },
+      "resources": {
+        "title": "Использование ресурсов",
+        "cpu": "CPU",
+        "memory": "Память",
+        "storage": "Хранилище"
+      },
+      "settings": {
+        "title": "Общие настройки",
+        "description": "Основные параметры вашего сервера。",
+        "name_label": "Название сервера",
+        "save": "Сохранить"
+      }
+    }
+  },
+  "web_server": {
+    "tabs": {
+      "overview": "Overview",
+      "domains": "Domains",
+      "ssl": "SSL",
+      "config": "Config",
+      "security": "Security"
+    },
+    "overview": {
+      "domains": "Domains",
+      "ssl_certificates": "SSL Certificates",
+      "databases": "Databases",
+      "storage": "Storage",
+      "quick_actions": "Quick Actions",
+      "add_domain": "Add Domain",
+      "ssl_certificate": "SSL Certificate",
+      "new_database": "New Database",
+      "edit_config": "Edit Config",
+      "resource_usage": "Resource Usage",
+      "cpu": "CPU",
+      "memory": "Memory",
+      "disk": "Disk"
+    },
+    "domains": {
+      "title": "Domain Management",
+      "description": "Add and manage domains for your web server",
+      "placeholder": "example.com",
+      "add_domain": "Add Domain",
+      "ssl_status": "SSL Status",
+      "secured": "Secured",
+      "not_secured": "Not secured",
+      "status": "Status",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete"
+    },
+    "ssl": {
+      "title": "SSL Certificates",
+      "description": "Manage SSL certificates for your domains",
+      "add_certificate": "Add Certificate",
+      "issuer": "Issuer",
+      "expires": "Expires",
+      "valid": "valid",
+      "download": "Download"
+    },
+    "config": {
+      "title": "Configuration Files",
+      "description": "Edit and manage server configuration files",
+      "import": "Import",
+      "new_file": "New File",
+      "path": "Path",
+      "size": "Size",
+      "edit": "Edit",
+      "reset": "Reset",
+      "save": "Save Configuration"
+    },
+    "security": {
+      "firewall": {
+        "title": "Firewall Settings",
+        "description": "Control access to your web server",
+        "firewall": "Firewall",
+        "ddos_protection": "DDoS Protection",
+        "rate_limiting": "Rate Limiting",
+        "block_access": "Block unauthorized access attempts",
+        "protect_traffic": "Protect against traffic spikes",
+        "limit_requests": "Limit requests per IP"
+      },
+      "authentication": {
+        "title": "Authentication",
+        "description": "Secure directories with passwords",
+        "protected_directories": "Protected Directories",
+        "no_directories": "No directories currently protected",
+        "add_protection": "Add Protection"
+      },
+      "ip_access": {
+        "title": "IP Access Control",
+        "description": "Allow or deny access based on IP addresses",
+        "allow": "Allow",
+        "deny": "Deny",
+        "add_rule": "Add Rule",
+        "action": "Action"
+      }
+    }
+  }
+}

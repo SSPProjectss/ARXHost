@@ -1,0 +1,246 @@
+{
+  "dashboard": {
+    "welcome": {
+      "greeting": {
+        "night": "Доброй ночи",
+        "morning": "Доброе утро",
+        "day": "Добрый день",
+        "evening": "Добрый вечер"
+      }
+    },
+    "stats": {
+      "balance": "Баланс",
+      "balance_description": "Доступно для оплаты",
+      "active_projects": "Активные проекты",
+      "active_projects_description": "Всего проектов",
+      "open_tickets": "Открытые тикеты",
+      "open_tickets_description": "Обращения в поддержку"
+    },
+    "servers": {
+      "title": "Мои серверы",
+      "description": "Управление вашими серверами",
+      "search_placeholder": "Поиск серверов...",
+      "order": "Сортировать",
+      "order_prompt": "Перетащите для изменения порядка",
+      "no_servers": "Нет серверов",
+      "no_servers_description": "Добавьте сервер, чтобы начать",
+      "no_servers_found": "Серверы не найдены",
+      "no_servers_found_description": "По запросу \"{query}\" серверы не найдены",
+      "order_servers": "Заказать сервер"
+    },
+    "projects": {
+      "title": "Активные проекты",
+      "description": "Обзор ваших текущих проектов",
+      "no_projects": "У вас пока нет проектов",
+      "no_projects_description": "Создайте первый проект, чтобы начать.",
+      "create": "Создать проект",
+      "create_title": "Создать новый проект",
+      "create_description": "Введите название для нового проекта. Нажмите создать, когда закончите.",
+      "create_placeholder": "Мой новый проект",
+      "create_button": "Создать",
+      "show_all": "Показать все проекты"
+    },
+    "server": {
+      "name": "Имя:",
+      "ip": "IP:",
+      "status": "Статус:",
+      "status_active": "Включен",
+      "actions": {
+        "start": "Запустить",
+        "restart": "Перезапустить",
+        "stop": "Остановить"
+      },
+      "tabs": {
+        "console": "Консоль",
+        "files": "Файлы",
+        "players": "Игроки",
+        "databases": "Базы данных",
+        "schedules": "Планировщик",
+        "plugins": "Плагины",
+        "mods": "Моды",
+        "versions": "Версии",
+        "worlds": "Миры",
+        "backups": "Бэкапы",
+        "firewall": "Фаерволл",
+        "wiper": "Wiper",
+        "config": "Конфигурация",
+        "access": "Доступ",
+        "settings": "Настройки"
+      },
+      "resources": {
+        "title": "Использование ресурсов",
+        "cpu": "CPU",
+        "memory": "Память",
+        "storage": "Хранилище"
+      },
+      "settings": {
+        "title": "Общие настройки",
+        "description": "Основные параметры вашего сервера.",
+        "name_label": "Название сервера",
+        "save": "Сохранить"
+      },
+      "access": {
+        "title": "Доступ к серверу",
+        "not_linked": "Этот сервер не привязан к проекту.",
+        "not_linked_description": "Привяжите его к проекту, чтобы управлять доступом участников.",
+        "to_projects": "К проектам",
+        "manage_access": "Управление доступом",
+        "manage_access_description": "Настройте права доступа для участников проекта \"{project}\" к этому серверу.",
+        "member": "Участник",
+        "permissions": {
+          "power": "Управление питанием",
+          "console": "Доступ к консоли",
+          "files": "Управление файлами",
+          "backups": "Управление бэкапами",
+          "settings": "Настройки сервера"
+        }
+      }
+    },
+    "settings": {
+      "profile": {
+        "title": "Профиль",
+        "description": "Основные настройки вашего аккаунта.",
+        "username": "Логин",
+        "email": "Эл. почта",
+        "language": "Язык",
+        "avatar": "Аватар",
+        "regenerate_avatar": "Перегенерировать",
+        "currency": "Валюта",
+        "password": "Пароль",
+        "regenerate_password": "Сгенерировать новый",
+        "save": "Сохранить изменения",
+        "saved": "Изменения успешно сохранены!"
+      },
+      "balance": {
+        "title": "Баланс",
+        "description": "Управляйте вашим балансом и выбирайте способ пополнения.",
+        "current_balance": "Текущий баланс",
+        "payment_method": "Способ пополнения",
+        "payment_methods": {
+          "robokassa": "Robokassa"
+        },
+        "payment_recommendations": {
+          "robokassa": "Карты РФ, эл. кошельки"
+        },
+        "amount": "Сумма пополнения",
+        "amount_placeholder": "0.00",
+        "quick_add": "+ {amount}",
+        "top_up": "Пополнить баланс",
+        "processing": "Обработка...",
+        "success": "Баланс успешно пополнен на {amount}!"
+      },
+      "referral": {
+        "title": "Реферальная программа",
+        "description": "Приглашайте друзей и получайте бонусы",
+        "link": "Ваша реферальная ссылка",
+        "code": "Ваш код:",
+        "referrer": "Вас пригласил",
+        "unlink": "Отвязаться",
+        "no_referrer": "Вы пришли без приглашения, но вы можете указать реферальный код.",
+        "apply_referrer": "Применить",
+        "referred": "Приглашенные вами ({count})",
+        "no_referred": "Вы пока никого не пригласили"
+      },
+      "notifications": {
+        "title": "Настройки уведомлений",
+        "description": "Выберите, какие уведомления и куда вы хотите получать.",
+        "security": "Безопасность",
+        "security_login": "Новые входы",
+        "security_login_description": "Оповещения о входе с нового устройства.",
+        "security_otp": "Коды для входа",
+        "security_otp_description": "Одноразовые коды для входа и регистрации.",
+        "security_topup": "Пополнение баланса",
+        "security_topup_description": "Уведомления об успешном пополнении баланса.",
+        "support": "Поддержка",
+        "support_messages": "Ответы на тикеты",
+        "support_messages_description": "Уведомления об ответах от службы поддержки.",
+        "news": "Новости и обновления",
+        "news_updates": "Новости платформы",
+        "news_updates_description": "Информация о новых функциях и обновлениях.",
+        "retention": "Хранение уведомлений на сайте",
+        "retention_auto": "Автоматическое удаление",
+        "retention_auto_description": "Удалять прочитанные уведомления на сайте через указанный период.",
+        "retention_periods": {
+          "1w": "1 неделя",
+          "1m": "1 месяц",
+          "6m": "6 месяцев",
+          "never": "Никогда"
+        },
+        "retention_exceptions": "Исключения",
+        "retention_exceptions_description": "Отмеченные типы уведомлений не будут удаляться автоматически, даже после прочтения.",
+        "save": "Сохранить настройки"
+      },
+      "sessions": {
+        "title": "Активные сессии",
+        "description": "Устройства, на которых выполнен вход в ваш аккаунт.",
+        "terminate": "Завершить все сессии",
+        "terminate_confirm": "Завершить все сессии?",
+        "terminate_confirm_description": "Вы уверены, что хотите завершить все сессии? Пользователь будет разлогинен со всех устройств. Вам потребуется снова войти в систему на них.",
+        "device": "Устройство",
+        "browser": "Браузер",
+        "location": "Местоположение",
+        "ip": "IP-адрес",
+        "last_active": "Последняя активность",
+        "status": "Статус",
+        "current": "Текущий",
+        "active": "Активен",
+        "logout": "Выйти",
+        "logout_confirm": "Завершить сессию?",
+        "logout_confirm_description": "Вы уверены, что хотите завершить эту сессию? Пользователь будет разлогинен с этого устройства.",
+        "no_sessions": "Нет активных сессий",
+        "unknown": "Неизвестно"
+      },
+      "promo": {
+        "title": "Активация промокода",
+        "description": "Введите промокод, чтобы получить бонус на свой баланс.",
+        "label": "Промокод",
+        "placeholder": "WELCOME-100",
+        "activate": "Активировать",
+        "activating": "Активация..."
+      },
+      "background": {
+        "title": "Фон дашборда",
+        "description": "Настройте фон по своему вкусу.",
+        "type": "Тип фона",
+        "default": "По умолчанию",
+        "gradient": "Градиент",
+        "gradient_settings": "Настройки градиента",
+        "gradient_type": "Тип градиента",
+        "static": "Статичный",
+        "animated": "Анимированный",
+        "colors": "Цвета",
+        "angle": "Угол градиента",
+        "save": "Сохранить фон",
+        "reset": "Сбросить"
+      }
+    },
+    "domains": {
+      "title": "Регистрация домена",
+      "description": "Найдите идеальное имя для своего проекта. Мы проверим его доступность сразу в нескольких популярных зонах.",
+      "placeholder": "например, my-cool-site",
+      "check": "Проверить",
+      "has_domain": "Уже есть домен",
+      "available": "Доступен",
+      "premium": "Премиум",
+      "unavailable": "Занят",
+      "buy": "Купить",
+      "suggestions": "Идеи от AI",
+      "suggestions_description": "Основные домены заняты. Вот несколько креативных альтернатив, которые могут быть свободны.",
+      "error": "Пожалуйста, введите имя домена для проверки."
+    },
+    "telegram": {
+      "title": "Telegram",
+      "description": "Подключите ваш Telegram аккаунт",
+      "linked": "Telegram подключен",
+      "linked_description": "Ваш аккаунт успешно привязан к Telegram",
+      "pending": "Подтверждение ожидается",
+      "pending_description": "Отправьте следующий код боту в Telegram:",
+      "verification_code": "Код подтверждения из Telegram",
+      "verification_placeholder": "Введите код подтверждения",
+      "verify": "Подтвердить привязку",
+      "link": "Подключить Telegram",
+      "unlink": "Отвязать Telegram",
+      "cancel": "Отмена"
+    }
+  }
+}

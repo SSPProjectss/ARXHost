@@ -1,0 +1,27 @@
+{
+  "docs": {
+    "title": "Documentation",
+    "description": "Official documents and guides on using the service",
+    "categories": {
+      "title": "Document Categories",
+      "description": "Find the information you need in our documents organized by categories"
+    },
+    "no_docs": {
+      "title": "Documents not found",
+      "description": "There are currently no available documents."
+    },
+    "read": "Read",
+    "download": "Download",
+    "important": {
+      "title": "Important Information",
+      "description1": "All documents presented on this page are official legal documents of the ARX Host service. Please read them carefully before using our services.",
+      "description2": "Documents may be changed at any time. The date of the last update is indicated in each document. Continued use of the service after changes have been made means agreement with the new version."
+    },
+    "help": {
+      "title": "Need help?",
+      "description": "If you have questions about the documents or need additional help, contact our support team",
+      "support": "Write to support",
+      "ticket": "Open a ticket"
+    }
+  }
+}

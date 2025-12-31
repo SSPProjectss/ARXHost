@@ -1,0 +1,89 @@
+{
+  "vps": {
+    "title": "Servidores Virtuales",
+    "subtitle": "NUEVA GENERACIÓN",
+    "description": "VPS de alto rendimiento con discos SSD NVMe, protección contra ataques DDoS y garantía de disponibilidad del 99,9%. La solución ideal para negocios y desarrollo.",
+    "buttons": {
+      "select_plan": "Seleccionar plan",
+      "available_os": "Sistemas operativos disponibles"
+    },
+    "features": {
+      "instant": "Despliegue instantáneo",
+      "no_hidden": "Sin pagos ocultos"
+    },
+    "metrics": {
+      "uptime": {
+        "value": "99,9%",
+        "label": "Garantía de disponibilidad"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "Protección DDoS"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Soporte técnico"
+      },
+      "deployment": {
+        "value": "5 min",
+        "label": "Tiempo de despliegue"
+      }
+    },
+    "tabs": {
+      "plans": "Soluciones listas",
+      "custom": "Plan personalizado"
+    },
+    "locations": {
+      "finland": {
+        "country": "Finlandia",
+        "city": "Helsinki"
+      },
+      "germany": {
+        "country": "Alemania",
+        "city": "Fráncfort"
+      },
+      "russia": {
+        "country": "Rusia",
+        "city": "Moscú"
+      }
+    },
+    "pricing": {
+      "title": "Elija su plan",
+      "description": "Planes flexibles y transparentes para cualquier tarea, desde proyectos pequeños hasta aplicaciones de alta carga.",
+      "custom_title": "Construya su servidor",
+      "custom_description": "Use la calculadora para seleccionar la configuración perfecta para sus tareas.",
+      "table": {
+        "plan": "Plan",
+        "cpu": "Procesador",
+        "memory": "Memoria",
+        "disk": "Disco",
+        "network": "Red",
+        "price": "Precio",
+        "order": "Ordenar",
+        "recommended": "Recomendado"
+      }
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "¿No encontró la respuesta?",
+      "questions": {
+        "what_is_vps": {
+          "question": "¿Qué es el hosting VPS/VDS?",
+          "answer": "VPS (Virtual Private Server) o VDS (Virtual Dedicated Server) es un servicio que proporciona a los usuarios un servidor virtual dedicado. Obtiene control total sobre el sistema (acceso root) y puede instalar cualquier software."
+        },
+        "difference": {
+          "question": "¿Qué hace diferente a su hosting VPS de otros?",
+          "answer": "Utilizamos solo hardware moderno con discos SSD NVMe rápidos, proporcionamos tráfico ilimitado y ofrecemos protección DDoS confiable en todos los planes. Nuestro objetivo es ofrecer el máximo rendimiento a un precio asequible."
+        },
+        "change_plan": {
+          "question": "¿Puedo cambiar el plan en el futuro?",
+          "answer": "Sí, puede escalar fácilmente los recursos de su servidor en cualquier momento. La actualización a un plan más potente es rápida con un tiempo de inactividad mínimo."
+        },
+        "operating_system": {
+          "question": "¿Qué sistema operativo puedo instalar?",
+          "answer": "Ofrecemos distribuciones Linux populares como Ubuntu, Debian y CentOS. Puede elegir el sistema operativo deseado al solicitar el servidor."
+        }
+      }
+    }
+  }
+}

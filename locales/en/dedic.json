@@ -1,0 +1,66 @@
+{
+  "dedic": {
+    "title": "Dedicated Servers",
+    "subtitle": "MAXIMUM POWER",
+    "description": "Rent physical servers with full control over resources. Maximum performance, security, and flexibility for the most demanding projects.",
+    "buttons": {
+      "select_server": "Select Server",
+      "full_root_access": "Full root access",
+      "guaranteed_resources": "Guaranteed resources"
+    },
+    "metrics": {
+      "resources": {
+        "value": "100%",
+        "label": "Guaranteed Resources"
+      },
+      "ddos": {
+        "value": "10 Tbps",
+        "label": "DDoS Protection"
+      },
+      "support": {
+        "value": "24/7",
+        "label": "Technical Support"
+      },
+      "deployment": {
+        "value": "1 hour",
+        "label": "Deployment Time"
+      }
+    },
+    "pricing": {
+      "title": "Server Configurations",
+      "description": "Choose a ready configuration or contact us to select a custom solution.",
+      "plan": "Plan",
+      "cpu": "CPU",
+      "memory": "Memory",
+      "disk": "Disk",
+      "network": "Network",
+      "in_stock": "In stock",
+      "price": "Price",
+      "order": "Order",
+      "recommended": "Recommended"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "description": "Didn't find the answer? {link}, and we'll help.",
+      "contact_us": "Contact us",
+      "questions": {
+        "what_is_dedicated": {
+          "question": "What is a dedicated server?",
+          "answer": "A dedicated server is a physical machine whose resources are completely provided at your disposal. Unlike VPS, you don't share the processor, memory, or disk with other users, which ensures maximum performance and security."
+        },
+        "use_cases": {
+          "question": "What tasks are dedicated servers suitable for?",
+          "answer": "Dedicated servers are ideal for high-load projects: large online stores, game servers with large online, databases, data analysis applications, and any tasks requiring guaranteed performance and complete isolation."
+        },
+        "customization": {
+          "question": "Can I customize the configuration?",
+          "answer": "Yes, in most cases we can offer custom configurations. Contact our support team to discuss your requirements for the processor, RAM, disks, and network connections."
+        },
+        "administration": {
+          "question": "What is included in the administration service?",
+          "answer": "Basic administration includes initial server setup, OS installation, and control panel installation. Full administration is a comprehensive service that includes monitoring, regular updates, backup, and solving technical problems. You can choose the appropriate level of support when ordering."
+        }
+      }
+    }
+  }
+}
